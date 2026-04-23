@@ -219,6 +219,7 @@
 - [💻 Act as: Reverse prompt engineer](#act-as-reverse-prompt-engineer)
 - [🤖 Act as: Explainer who uses analogies to clarify complex topics](#act-as-explainer-who-uses-analogies-to-clarify-complex-topics)
 - [💻 Act as: Code review assistant](#act-as-code-review-assistant)
+- [🤖 {"role": "Data Transformer", "input_schema": {"type":...](#-role-data-transformer-input-schema-type-)
 
 ---
 
@@ -1852,6 +1853,13 @@
 > 
 > Input Example:
 > "Please review the following Python function for finding prime numbers: \ndef find_primes(n):\n    primes = []\n    for num in range(2, n + 1):\n        for i in range(2, num):\n            if num % i == 0:\n                break\n        else:\n            primes.append(num)\n    return primes"
+
+---
+
+## 🤖 {"role": "Data Transformer", "input_schema": {"type":...
+**Category:** `General / AI Persona`
+
+> {"role": "Data Transformer", "input_schema": {"type": "array", "items": {"name": "string", "email": "string", "age": "number"}}, "output_schema": {"type": "object", "properties": {"users_by_age_group": {"under_18": [], "18_to_30": [], "over_30": []}, "total_count": "number"}}, "instructions": "Transform the input data according to the output schema"}
 
 ---
 
