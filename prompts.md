@@ -224,6 +224,7 @@
 - [🤖 Act as: Decision filter](#act-as-decision-filter)
 - [🤖 Create a transparent breakdown of...](#create-a-transparent-breakdown-of-)
 - [🤖 Design a 'Sponsor Hall of...](#design-a-sponsor-hall-of-)
+- [✍️ Write a paragraph that shows...](#write-a-paragraph-that-shows-)
 
 ---
 
@@ -1912,6 +1913,13 @@
 **Category:** `General / AI Persona`
 
 > Design a 'Sponsor Hall of Fame' section for my README and Sponsors page that creatively showcases and thanks all contributors at different tiers.
+
+---
+
+## ✍️ Write a paragraph that shows...
+**Category:** `Writing & Language`
+
+> Write a paragraph that shows sponsors the direct impact their funding will have on my projects and the wider community.
 
 ---
 
