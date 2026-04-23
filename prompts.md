@@ -223,6 +223,7 @@
 - [🤖 { "role": "Story Generator", "parameters":...](#-role-story-generator-parameters-)
 - [🤖 Act as: Decision filter](#act-as-decision-filter)
 - [🤖 Create a transparent breakdown of...](#create-a-transparent-breakdown-of-)
+- [🤖 Design a 'Sponsor Hall of...](#design-a-sponsor-hall-of-)
 
 ---
 
@@ -1904,6 +1905,13 @@
 **Category:** `General / AI Persona`
 
 > Create a transparent breakdown of how sponsor funds will be used (e.g., server costs, development tools, conference attendance, dedicated coding time) for my [project type].
+
+---
+
+## 🤖 Design a 'Sponsor Hall of...
+**Category:** `General / AI Persona`
+
+> Design a 'Sponsor Hall of Fame' section for my README and Sponsors page that creatively showcases and thanks all contributors at different tiers.
 
 ---
 
