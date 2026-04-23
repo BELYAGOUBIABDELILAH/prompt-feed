@@ -202,6 +202,7 @@
 - [🤖 Act as: Advanced study plan generator](#act-as-advanced-study-plan-generator)
 - [💼 Act as: Seo specialist](#act-as-seo-specialist)
 - [🤖 Act as: Note-taking assistant for a lecture](#act-as-note-taking-assistant-for-a-lecture)
+- [🤖 Act as: Nutritionist and create a healthy recipe for a vegan dinner](#act-as-nutritionist-and-create-a-healthy-recipe-for-a-vegan-dinner)
 
 ---
 
@@ -1681,6 +1682,13 @@
 **Category:** `General / AI Persona`
 
 > I want you to act as a note-taking assistant for a lecture. Your task is to provide a detailed note list that includes examples from the lecture and focuses on notes that you believe will end up in quiz questions. Additionally, please make a separate list for notes that have numbers and data in them and another separated list for the examples that included in this lecture. The notes should be concise and easy to read.
+
+---
+
+## 🤖 Act as: Nutritionist and create a healthy recipe for a vegan dinner
+**Category:** `General / AI Persona`
+
+> Act as a nutritionist and create a healthy recipe for a vegan dinner. Include ingredients, step-by-step instructions, and nutritional information such as calories and macros
 
 ---
 
