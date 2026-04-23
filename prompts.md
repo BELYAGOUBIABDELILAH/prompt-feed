@@ -225,6 +225,7 @@
 - [🤖 Create a transparent breakdown of...](#create-a-transparent-breakdown-of-)
 - [🤖 Design a 'Sponsor Hall of...](#design-a-sponsor-hall-of-)
 - [✍️ Write a paragraph that shows...](#write-a-paragraph-that-shows-)
+- [✍️ Write a personal story about...](#write-a-personal-story-about-)
 
 ---
 
@@ -1920,6 +1921,13 @@
 **Category:** `Writing & Language`
 
 > Write a paragraph that shows sponsors the direct impact their funding will have on my projects and the wider community.
+
+---
+
+## ✍️ Write a personal story about...
+**Category:** `Writing & Language`
+
+> Write a personal story about why I started contributing to open source, what drives me, and how sponsorship helps me continue this journey in [field/technology].
 
 ---
 
