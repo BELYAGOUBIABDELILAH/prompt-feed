@@ -220,6 +220,7 @@
 - [🤖 Act as: Explainer who uses analogies to clarify complex topics](#act-as-explainer-who-uses-analogies-to-clarify-complex-topics)
 - [💻 Act as: Code review assistant](#act-as-code-review-assistant)
 - [🤖 {"role": "Data Transformer", "input_schema": {"type":...](#-role-data-transformer-input-schema-type-)
+- [🤖 { "role": "Story Generator", "parameters":...](#-role-story-generator-parameters-)
 
 ---
 
@@ -1860,6 +1861,33 @@
 **Category:** `General / AI Persona`
 
 > {"role": "Data Transformer", "input_schema": {"type": "array", "items": {"name": "string", "email": "string", "age": "number"}}, "output_schema": {"type": "object", "properties": {"users_by_age_group": {"under_18": [], "18_to_30": [], "over_30": []}, "total_count": "number"}}, "instructions": "Transform the input data according to the output schema"}
+
+---
+
+## 🤖 { "role": "Story Generator", "parameters":...
+**Category:** `General / AI Persona`
+
+> {
+>   "role": "Story Generator",
+>   "parameters": {
+>     "genre": "${Genre:fantasy, sci-fi, mystery, romance, horror}",
+>     "length": "${Length:short, medium, long}",
+>     "tone": "${Tone:dark, humorous, inspirational}",
+>     "protagonist": "string (optional description)",
+>     "setting": "string (optional setting description)"
+>   },
+>   "output_format": {
+>     "title": "string",
+>     "story": "string",
+>     "characters": [
+>       "string"
+>     ],
+>     "themes": [
+>       "string"
+>     ]
+>   },
+>   "instructions": "Generate a creative story based on the provided parameters. Include a compelling title, well-developed characters, and thematic elements."
+> }
 
 ---
 
