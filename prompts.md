@@ -230,6 +230,7 @@
 - [✍️ Write 3-5 brief success stories...](#write-3-5-brief-success-stories-)
 - [✍️ Write an announcement for my...](#write-an-announcement-for-my-)
 - [✍️ Write a GitHub Sponsors bio...](#write-a-github-sponsors-bio-)
+- [🤖 Explain how sponsorship would allow...](#explain-how-sponsorship-would-allow-)
 
 ---
 
@@ -1960,6 +1961,13 @@
 **Category:** `Writing & Language`
 
 > Write a GitHub Sponsors bio for my profile that highlights my experience in [your field], the impact of my open source work, and my commitment to community growth.
+
+---
+
+## 🤖 Explain how sponsorship would allow...
+**Category:** `General / AI Persona`
+
+> Explain how sponsorship would allow me to dedicate [X hours/days] per week/month to open source, comparing current volunteer time vs. potential sponsored time.
 
 ---
 
