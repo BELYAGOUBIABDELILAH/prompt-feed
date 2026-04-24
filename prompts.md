@@ -257,6 +257,7 @@
 - [💻 Build a developer-focused code snippet...](#build-a-developer-focused-code-snippet-)
 - [💻 Build a Kanban project management...](#build-a-kanban-project-management-)
 - [💻 Develop a comprehensive flashcard study...](#develop-a-comprehensive-flashcard-study-)
+- [💻 Create a habit tracking application...](#create-a-habit-tracking-application-)
 
 ---
 
@@ -2176,6 +2177,13 @@
 **Category:** `Coding & Tech`
 
 > Develop a comprehensive flashcard study system using HTML5, CSS3, and JavaScript. Create an intuitive interface for card creation and review. Implement spaced repetition algorithm for optimized learning. Add support for text, images, and audio on cards. Include card categorization with decks and tags. Implement study sessions with performance tracking. Add self-assessment with confidence levels. Create statistics dashboard showing learning progress. Support import/export of card decks in standard formats. Implement keyboard shortcuts for efficient review. Add dark mode and customizable themes.
+
+---
+
+## 💻 Create a habit tracking application...
+**Category:** `Coding & Tech`
+
+> Create a habit tracking application using HTML5, CSS3, and JavaScript. Build a clean interface showing daily, weekly, and monthly views. Implement habit creation with frequency, reminders, and goals. Add streak tracking with visual indicators and milestone celebrations. Include detailed statistics and progress graphs. Support habit categories and tags for organization. Implement calendar integration for scheduling. Add data visualization showing patterns and trends. Create a responsive design for all devices. Include data export and backup functionality. Add gamification elements with achievements and rewards.
 
 ---
 
