@@ -256,6 +256,7 @@
 - [💻 Create a client-side file encryption...](#create-a-client-side-file-encryption-)
 - [💻 Build a developer-focused code snippet...](#build-a-developer-focused-code-snippet-)
 - [💻 Build a Kanban project management...](#build-a-kanban-project-management-)
+- [💻 Develop a comprehensive flashcard study...](#develop-a-comprehensive-flashcard-study-)
 
 ---
 
@@ -2168,6 +2169,13 @@
 **Category:** `Coding & Tech`
 
 > Build a Kanban project management board using HTML5, CSS3, and JavaScript. Create a flexible board layout with customizable columns (To Do, In Progress, Done, etc.). Implement drag-and-drop card movement between columns with smooth animations. Add card creation with rich text formatting, labels, due dates, and priority levels. Include user assignment with avatars and filtering by assignee. Implement card comments and activity history. Add board customization with column reordering and color themes. Support multiple boards with quick switching. Implement data persistence using localStorage with export/import functionality. Create a responsive design that adapts to different screen sizes. Add keyboard shortcuts for common actions.
+
+---
+
+## 💻 Develop a comprehensive flashcard study...
+**Category:** `Coding & Tech`
+
+> Develop a comprehensive flashcard study system using HTML5, CSS3, and JavaScript. Create an intuitive interface for card creation and review. Implement spaced repetition algorithm for optimized learning. Add support for text, images, and audio on cards. Include card categorization with decks and tags. Implement study sessions with performance tracking. Add self-assessment with confidence levels. Create statistics dashboard showing learning progress. Support import/export of card decks in standard formats. Implement keyboard shortcuts for efficient review. Add dark mode and customizable themes.
 
 ---
 
