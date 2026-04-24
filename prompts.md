@@ -254,6 +254,7 @@
 - [💻 Develop a comprehensive budget tracking...](#develop-a-comprehensive-budget-tracking-)
 - [💻 Build a comprehensive weather dashboard...](#build-a-comprehensive-weather-dashboard-)
 - [💻 Create a client-side file encryption...](#create-a-client-side-file-encryption-)
+- [💻 Build a developer-focused code snippet...](#build-a-developer-focused-code-snippet-)
 
 ---
 
@@ -2152,6 +2153,13 @@
 **Category:** `Coding & Tech`
 
 > Create a client-side file encryption tool using HTML5, CSS3, and JavaScript with the Web Crypto API. Build a drag-and-drop interface for file selection with progress indicators. Implement AES-256-GCM encryption with secure key derivation from passwords (PBKDF2). Add support for encrypting multiple files simultaneously with batch processing. Include password strength enforcement with entropy calculation. Generate downloadable encrypted files with custom file extension. Create a decryption interface with password verification. Implement secure memory handling with automatic clearing of sensitive data. Add detailed logs of encryption operations without storing sensitive information. Include export/import of encryption keys with proper security warnings. Support for large files using streaming encryption and chunked processing.
+
+---
+
+## 💻 Build a developer-focused code snippet...
+**Category:** `Coding & Tech`
+
+> Build a developer-focused code snippet manager using HTML5, CSS3, and JavaScript. Create a clean IDE-like interface with syntax highlighting for 30+ programming languages. Implement a tagging and categorization system for organizing snippets. Add a powerful search function with support for regex and filtering by language/tags. Include code editing with line numbers, indentation guides, and bracket matching. Support public/private visibility settings for each snippet. Implement export/import functionality in JSON and Gist formats. Add keyboard shortcuts for common operations. Create a responsive design that works well on all devices. Include automatic saving with version history. Add copy-to-clipboard functionality with syntax formatting preservation.
 
 ---
 
