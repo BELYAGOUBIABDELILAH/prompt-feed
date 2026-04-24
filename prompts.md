@@ -249,6 +249,7 @@
 - [💻 Create a comprehensive secure password...](#create-a-comprehensive-secure-password-)
 - [💻 Develop a web-based music player...](#develop-a-web-based-music-player-)
 - [💻 Create an interactive drawing application...](#create-an-interactive-drawing-application-)
+- [💻 Develop a comprehensive currency converter...](#develop-a-comprehensive-currency-converter-)
 
 ---
 
@@ -2112,6 +2113,13 @@
 **Category:** `Coding & Tech`
 
 > Create an interactive drawing application using HTML5 Canvas, CSS3, and JavaScript. Build a clean interface with intuitive tool selection. Implement multiple drawing tools including brush, pencil, shapes, text, and eraser. Add color selection with recent colors, color picker, and palettes. Include layer support with opacity and blend mode options. Implement undo/redo functionality with history states. Add image import and export in multiple formats (PNG, JPG, SVG). Support canvas resizing and rotation. Implement zoom and pan navigation. Add selection tools with move, resize, and transform capabilities. Include keyboard shortcuts for common actions.
+
+---
+
+## 💻 Develop a comprehensive currency converter...
+**Category:** `Coding & Tech`
+
+> Develop a comprehensive currency converter using HTML5, CSS3, JavaScript and a reliable Exchange Rate API. Create a clean, intuitive interface with prominent input fields and currency selectors. Implement real-time exchange rates with timestamp indicators showing data freshness. Support 170+ global currencies including crypto with appropriate symbols and formatting. Maintain a conversion history log with timestamps and rate information. Allow users to bookmark favorite currency pairs for quick access. Generate interactive historical rate charts with customizable date ranges. Implement offline functionality using cached exchange rates with clear staleness indicators. Add a built-in calculator for complex conversions and arithmetic operations. Create rate alerts for target exchange rates with optional notifications. Include side-by-side comparison of different provider rates when available. Support printing and exporting conversion results in multiple formats (PDF, CSV, JSON).
 
 ---
 
