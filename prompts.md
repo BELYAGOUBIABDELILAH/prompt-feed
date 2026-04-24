@@ -235,6 +235,7 @@
 - [🤖 Suggest creative perks or acknowledgments...](#suggest-creative-perks-or-acknowledgments-)
 - [🤖 Create a section for my...](#create-a-section-for-my-)
 - [🤖 Create a compelling data-driven section...](#create-a-compelling-data-driven-section-)
+- [✍️ Write descriptions for three GitHub...](#write-descriptions-for-three-github-)
 
 ---
 
@@ -2000,6 +2001,13 @@
 **Category:** `General / AI Persona`
 
 > Create a compelling data-driven section showing the impact of [project name]: downloads, users helped, issues resolved, and community growth statistics.
+
+---
+
+## ✍️ Write descriptions for three GitHub...
+**Category:** `Writing & Language`
+
+> Write descriptions for three GitHub Sponsors tiers ($5, $25, $100) that offer increasing value and recognition to supporters.
 
 ---
 
