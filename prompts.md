@@ -258,6 +258,7 @@
 - [💻 Build a Kanban project management...](#build-a-kanban-project-management-)
 - [💻 Develop a comprehensive flashcard study...](#develop-a-comprehensive-flashcard-study-)
 - [💻 Create a habit tracking application...](#create-a-habit-tracking-application-)
+- [💻 Develop a web-based image editor...](#develop-a-web-based-image-editor-)
 
 ---
 
@@ -2184,6 +2185,13 @@
 **Category:** `Coding & Tech`
 
 > Create a habit tracking application using HTML5, CSS3, and JavaScript. Build a clean interface showing daily, weekly, and monthly views. Implement habit creation with frequency, reminders, and goals. Add streak tracking with visual indicators and milestone celebrations. Include detailed statistics and progress graphs. Support habit categories and tags for organization. Implement calendar integration for scheduling. Add data visualization showing patterns and trends. Create a responsive design for all devices. Include data export and backup functionality. Add gamification elements with achievements and rewards.
+
+---
+
+## 💻 Develop a web-based image editor...
+**Category:** `Coding & Tech`
+
+> Develop a web-based image editor using HTML5 Canvas, CSS3, and JavaScript. Create a professional interface with tool panels and preview area. Implement basic adjustments including brightness, contrast, saturation, and sharpness. Add filters with customizable parameters and previews. Include cropping and resizing with aspect ratio controls. Implement text overlay with font selection and styling. Add shape drawing tools with fill and stroke options. Include layer management with blending modes. Support image export in multiple formats and qualities. Create a responsive design that adapts to screen size. Add undo/redo functionality with history states.
 
 ---
 
