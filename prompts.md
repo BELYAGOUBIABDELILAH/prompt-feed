@@ -245,6 +245,7 @@
 - [💻 Develop a first-person shooter game...](#develop-a-first-person-shooter-game-)
 - [💻 Develop a comprehensive interactive quiz...](#develop-a-comprehensive-interactive-quiz-)
 - [💻 Build a mindfulness meditation timer...](#build-a-mindfulness-meditation-timer-)
+- [💻 Build a professional-grade color tool...](#build-a-professional-grade-color-tool-)
 
 ---
 
@@ -2080,6 +2081,13 @@
 **Category:** `Coding & Tech`
 
 > Build a mindfulness meditation timer using HTML5, CSS3, and JavaScript. Create a serene, distraction-free interface with nature-inspired design. Implement customizable meditation sessions with preparation, meditation, and rest intervals. Add ambient sound options including nature sounds, binaural beats, and white noise. Include guided meditation with customizable voice prompts. Implement interval bells with volume control and sound selection. Add session history and statistics tracking. Create visual breathing guides with animations. Support offline usage as a PWA. Include dark mode and multiple themes. Add session scheduling with reminders.
+
+---
+
+## 💻 Build a professional-grade color tool...
+**Category:** `Coding & Tech`
+
+> Build a professional-grade color tool with HTML5, CSS3 and JavaScript for designers and developers. Create an intuitive interface with multiple selection methods including eyedropper, color wheel, sliders, and input fields. Implement real-time conversion between color formats (RGB, RGBA, HSL, HSLA, HEX, CMYK) with copy functionality. Add a color palette generator with options for complementary, analogous, triadic, tetradic, and monochromatic schemes. Include a favorites system with named collections and export options. Implement color harmony rules visualization with interactive adjustment. Create a gradient generator supporting linear, radial, and conic gradients with multiple color stops. Add an accessibility checker for WCAG compliance with contrast ratios and colorblindness simulation. Implement one-click copy for CSS, SCSS, and SVG code snippets. Include a color naming algorithm to suggest names for selected colors. Support exporting palettes to various formats (Adobe ASE, JSON, CSS variables, SCSS).
 
 ---
 
