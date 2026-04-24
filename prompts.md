@@ -250,6 +250,7 @@
 - [💻 Develop a web-based music player...](#develop-a-web-based-music-player-)
 - [💻 Create an interactive drawing application...](#create-an-interactive-drawing-application-)
 - [💻 Develop a comprehensive currency converter...](#develop-a-comprehensive-currency-converter-)
+- [💻 Create a recipe finder application...](#create-a-recipe-finder-application-)
 
 ---
 
@@ -2120,6 +2121,13 @@
 **Category:** `Coding & Tech`
 
 > Develop a comprehensive currency converter using HTML5, CSS3, JavaScript and a reliable Exchange Rate API. Create a clean, intuitive interface with prominent input fields and currency selectors. Implement real-time exchange rates with timestamp indicators showing data freshness. Support 170+ global currencies including crypto with appropriate symbols and formatting. Maintain a conversion history log with timestamps and rate information. Allow users to bookmark favorite currency pairs for quick access. Generate interactive historical rate charts with customizable date ranges. Implement offline functionality using cached exchange rates with clear staleness indicators. Add a built-in calculator for complex conversions and arithmetic operations. Create rate alerts for target exchange rates with optional notifications. Include side-by-side comparison of different provider rates when available. Support printing and exporting conversion results in multiple formats (PDF, CSV, JSON).
+
+---
+
+## 💻 Create a recipe finder application...
+**Category:** `Coding & Tech`
+
+> Create a recipe finder application using HTML5, CSS3, JavaScript and a food API. Build a visually appealing interface with food photography and intuitive navigation. Implement advanced search with filtering by ingredients, cuisine, diet restrictions, and preparation time. Add user ratings and reviews with star system. Include detailed nutritional information with visual indicators for calories, macros, and allergens. Support recipe saving and categorization into collections. Implement a meal planning calendar with drag-and-drop functionality. Add automatic serving size adjustment with quantity recalculation. Include cooking mode with step-by-step instructions and timers. Support offline access to saved recipes. Add social sharing functionality for favorite recipes.
 
 ---
 
