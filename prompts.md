@@ -251,6 +251,7 @@
 - [💻 Create an interactive drawing application...](#create-an-interactive-drawing-application-)
 - [💻 Develop a comprehensive currency converter...](#develop-a-comprehensive-currency-converter-)
 - [💻 Create a recipe finder application...](#create-a-recipe-finder-application-)
+- [💻 Develop a comprehensive budget tracking...](#develop-a-comprehensive-budget-tracking-)
 
 ---
 
@@ -2128,6 +2129,13 @@
 **Category:** `Coding & Tech`
 
 > Create a recipe finder application using HTML5, CSS3, JavaScript and a food API. Build a visually appealing interface with food photography and intuitive navigation. Implement advanced search with filtering by ingredients, cuisine, diet restrictions, and preparation time. Add user ratings and reviews with star system. Include detailed nutritional information with visual indicators for calories, macros, and allergens. Support recipe saving and categorization into collections. Implement a meal planning calendar with drag-and-drop functionality. Add automatic serving size adjustment with quantity recalculation. Include cooking mode with step-by-step instructions and timers. Support offline access to saved recipes. Add social sharing functionality for favorite recipes.
+
+---
+
+## 💻 Develop a comprehensive budget tracking...
+**Category:** `Coding & Tech`
+
+> Develop a comprehensive budget tracking application using HTML5, CSS3, and JavaScript. Create an intuitive dashboard showing income, expenses, savings, and budget status. Implement transaction management with categories, tags, and recurring transactions. Add interactive charts and graphs for expense analysis by category and time period. Include budget goal setting with progress tracking and alerts. Support multiple accounts and transfer between accounts. Implement receipt scanning and storage using the device camera. Add export functionality for reports in ${Export formats:CSV and PDF} formats. Create a responsive design with mobile-first approach. Include data backup and restore functionality. Add forecasting features to predict future financial status based on current trends.
 
 ---
 
