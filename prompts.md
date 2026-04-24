@@ -238,6 +238,7 @@
 - [✍️ Write descriptions for three GitHub...](#write-descriptions-for-three-github-)
 - [🤖 Create a special $1-2 student...](#create-a-special-1-2-student-)
 - [🤖 Suggest ideas for pricing tiers...](#suggest-ideas-for-pricing-tiers-)
+- [🤖 Draft a brief 'Project Spotlight'...](#draft-a-brief-project-spotlight-)
 
 ---
 
@@ -2024,6 +2025,13 @@
 **Category:** `General / AI Persona`
 
 > Suggest ideas for pricing tiers on GitHub Sponsors, including unique benefits at each level for individuals and companies.
+
+---
+
+## 🤖 Draft a brief 'Project Spotlight'...
+**Category:** `General / AI Persona`
+
+> Draft a brief 'Project Spotlight' section for my Sponsors page, showcasing the goals, achievements, and roadmap of [project name].
 
 ---
 
