@@ -242,6 +242,7 @@
 - [🤖 List ways I can recognize...](#list-ways-i-can-recognize-)
 - [✍️ Write a compelling vision statement...](#write-a-compelling-vision-statement-)
 - [🤖 Summarize my top three repositories...](#summarize-my-top-three-repositories-)
+- [💻 Develop a first-person shooter game...](#develop-a-first-person-shooter-game-)
 
 ---
 
@@ -2056,6 +2057,13 @@
 **Category:** `General / AI Persona`
 
 > Summarize my top three repositories ([repo1], [repo2], [repo3]) in a way that inspires potential sponsors to support my work.
+
+---
+
+## 💻 Develop a first-person shooter game...
+**Category:** `Coding & Tech`
+
+> Develop a first-person shooter game using Three.js and JavaScript. Create detailed weapon models with realistic animations and effects. Implement precise hit detection and damage systems. Design multiple game levels with various environments and objectives. Add AI enemies with pathfinding and combat behaviors. Create particle effects for muzzle flashes, impacts, and explosions. Implement multiplayer mode with team-based objectives. Include weapon pickup and inventory system. Add sound effects for weapons, footsteps, and environment. Create detailed scoring and statistics tracking. Implement replay system for kill cams and match highlights.
 
 ---
 
