@@ -241,6 +241,7 @@
 - [🤖 Draft a brief 'Project Spotlight'...](#draft-a-brief-project-spotlight-)
 - [🤖 List ways I can recognize...](#list-ways-i-can-recognize-)
 - [✍️ Write a compelling vision statement...](#write-a-compelling-vision-statement-)
+- [🤖 Summarize my top three repositories...](#summarize-my-top-three-repositories-)
 
 ---
 
@@ -2048,6 +2049,13 @@
 **Category:** `Writing & Language`
 
 > Write a compelling vision statement about where I see [project/work] going in the next 2-3 years and how sponsors can be part of that journey.
+
+---
+
+## 🤖 Summarize my top three repositories...
+**Category:** `General / AI Persona`
+
+> Summarize my top three repositories ([repo1], [repo2], [repo3]) in a way that inspires potential sponsors to support my work.
 
 ---
 
