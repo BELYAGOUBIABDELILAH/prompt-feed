@@ -267,6 +267,7 @@
 - [💻 Develop a memory matching card...](#develop-a-memory-matching-card-)
 - [🌍 Develop a memory profiling tool...](#develop-a-memory-profiling-tool-)
 - [🤖 Build a high-performance file system...](#build-a-high-performance-file-system-)
+- [💻 Create an exciting 3D racing...](#create-an-exciting-3d-racing-)
 
 ---
 
@@ -2256,6 +2257,13 @@
 **Category:** `General / AI Persona`
 
 > Build a high-performance file system indexer and search tool in Go. Implement recursive directory traversal with configurable depth. Add file metadata extraction including size, dates, and permissions. Include content indexing with optional full-text search. Implement advanced query syntax with boolean operators and wildcards. Add incremental indexing for performance. Include export functionality in JSON and CSV formats. Implement search result highlighting. Add duplicate file detection using checksums. Include performance statistics and progress reporting. Implement concurrent processing for multi-core utilization.
+
+---
+
+## 💻 Create an exciting 3D racing...
+**Category:** `Coding & Tech`
+
+> Create an exciting 3D racing game using Three.js and JavaScript. Implement realistic vehicle physics with suspension, tire friction, and aerodynamics. Create detailed car models with customizable paint and upgrades. Design multiple race tracks with varying terrain and obstacles. Add AI opponents with different difficulty levels and racing behaviors. Implement a split-screen multiplayer mode for local racing. Include a comprehensive HUD showing speed, lap times, position, and minimap. Create particle effects for tire smoke, engine effects, and weather. Add dynamic day/night cycle with realistic lighting. Implement race modes including time trial, championship, and elimination. Include replay system with multiple camera angles.
 
 ---
 
