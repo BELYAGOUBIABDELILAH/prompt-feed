@@ -261,6 +261,7 @@
 - [💻 Develop a web-based image editor...](#develop-a-web-based-image-editor-)
 - [💻 Build a comprehensive text analysis...](#build-a-comprehensive-text-analysis-)
 - [💻 Create an interactive Sudoku game...](#create-an-interactive-sudoku-game-)
+- [💻 Develop a feature-rich chess game...](#develop-a-feature-rich-chess-game-)
 
 ---
 
@@ -2208,6 +2209,13 @@
 **Category:** `Coding & Tech`
 
 > Create an interactive Sudoku game using HTML5, CSS3, and JavaScript. Build a clean, accessible game board with intuitive controls. Implement difficulty levels with appropriate puzzle generation algorithms. Add hint system with multiple levels of assistance. Include note-taking functionality for candidate numbers. Implement timer with pause and resume. Add error checking with optional immediate feedback. Include game saving and loading with multiple slots. Create statistics tracking for wins, times, and difficulty levels. Add printable puzzle generation. Implement keyboard controls and accessibility features.
+
+---
+
+## 💻 Develop a feature-rich chess game...
+**Category:** `Coding & Tech`
+
+> Develop a feature-rich chess game using HTML5, CSS3, and JavaScript. Create a realistic chessboard with proper piece rendering. Implement standard chess rules with move validation. Add move highlighting and piece movement animation. Include game clock with multiple time control options. Implement notation recording with PGN export. Add game analysis with move evaluation. Include AI opponent with adjustable difficulty levels. Support online play with WebRTC or WebSocket. Add opening book and common patterns recognition. Implement tournament mode with brackets and scoring.
 
 ---
 
