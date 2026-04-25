@@ -1,5 +1,4 @@
 # 🚀 Daily AI Prompts
-<!-- updated -->
 
 ## 📑 Table of Contents
 
@@ -261,6 +260,7 @@
 - [💻 Create a habit tracking application...](#create-a-habit-tracking-application-)
 - [💻 Develop a web-based image editor...](#develop-a-web-based-image-editor-)
 - [💻 Build a comprehensive text analysis...](#build-a-comprehensive-text-analysis-)
+- [💻 Create an interactive Sudoku game...](#create-an-interactive-sudoku-game-)
 
 ---
 
@@ -2201,6 +2201,13 @@
 **Category:** `Coding & Tech`
 
 > Build a comprehensive text analysis tool using HTML5, CSS3, and JavaScript. Create a clean interface with text input area and results dashboard. Implement word count, character count, and reading time estimation. Add readability scoring using multiple algorithms (Flesch-Kincaid, SMOG, Coleman-Liau). Include keyword density analysis with visualization. Implement sentiment analysis with emotional tone detection. Add grammar and spelling checking with suggestions. Include text comparison functionality for similarity detection. Support multiple languages with automatic detection. Add export functionality for analysis reports. Implement text formatting and cleaning tools.
+
+---
+
+## 💻 Create an interactive Sudoku game...
+**Category:** `Coding & Tech`
+
+> Create an interactive Sudoku game using HTML5, CSS3, and JavaScript. Build a clean, accessible game board with intuitive controls. Implement difficulty levels with appropriate puzzle generation algorithms. Add hint system with multiple levels of assistance. Include note-taking functionality for candidate numbers. Implement timer with pause and resume. Add error checking with optional immediate feedback. Include game saving and loading with multiple slots. Create statistics tracking for wins, times, and difficulty levels. Add printable puzzle generation. Implement keyboard controls and accessibility features.
 
 ---
 
