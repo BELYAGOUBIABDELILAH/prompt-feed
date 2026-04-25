@@ -270,6 +270,7 @@
 - [💻 Create an exciting 3D racing...](#create-an-exciting-3d-racing-)
 - [💻 Create a high-performance HTTP benchmarking...](#create-a-high-performance-http-benchmarking-)
 - [💻 Build an immersive 3D space...](#build-an-immersive-3d-space-)
+- [💻 Create a command-line network packet...](#create-a-command-line-network-packet-)
 
 ---
 
@@ -2280,6 +2281,13 @@
 **Category:** `Coding & Tech`
 
 > Build an immersive 3D space exploration game using Three.js and JavaScript. Create a vast universe with procedurally generated planets, stars, and nebulae. Implement realistic spacecraft controls with Newtonian physics. Add detailed planet surfaces with terrain generation and atmospheric effects. Create space stations and outposts for trading and missions. Implement resource collection and cargo management systems. Add alien species with unique behaviors and interactions. Create wormhole travel effects between star systems. Include detailed ship customization and upgrade system. Implement mining and combat mechanics with weapon effects. Add mission system with story elements and objectives.
+
+---
+
+## 💻 Create a command-line network packet...
+**Category:** `Coding & Tech`
+
+> Create a command-line network packet analyzer in C using libpcap. Implement packet capture from network interfaces with filtering options. Add protocol analysis for common protocols (TCP, UDP, HTTP, DNS, etc.). Include traffic statistics with bandwidth usage and connection counts. Implement packet decoding with detailed header information. Add export functionality in PCAP and CSV formats. Include alert system for suspicious traffic patterns. Implement connection tracking with state information. Add geolocation lookup for IP addresses. Include command-line arguments for all options with sensible defaults. Implement color-coded output for better readability.
 
 ---
 
