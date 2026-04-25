@@ -264,6 +264,7 @@
 - [💻 Develop a feature-rich chess game...](#develop-a-feature-rich-chess-game-)
 - [💻 Build a URL shortening service...](#build-a-url-shortening-service-)
 - [💻 Build an interactive typing speed...](#build-an-interactive-typing-speed-)
+- [💻 Develop a memory matching card...](#develop-a-memory-matching-card-)
 
 ---
 
@@ -2232,6 +2233,13 @@
 **Category:** `Coding & Tech`
 
 > Build an interactive typing speed test using HTML5, CSS3, and JavaScript. Create a clean interface with text display and input area. Implement WPM and accuracy calculation in real-time. Add difficulty levels with appropriate text selection. Include error highlighting and correction tracking. Implement test history with performance graphs. Add custom test creation with text import. Include virtual keyboard display showing keypresses. Support multiple languages and keyboard layouts. Create a responsive design for all devices. Add competition mode with leaderboards.
+
+---
+
+## 💻 Develop a memory matching card...
+**Category:** `Coding & Tech`
+
+> Develop a memory matching card game using HTML5, CSS3, and JavaScript. Create visually appealing card designs with flip animations. Implement difficulty levels with varying grid sizes and card counts. Add timer and move counter for scoring. Include sound effects for card flips and matches. Implement leaderboard with score persistence. Add theme selection with different card designs. Include multiplayer mode for competitive play. Create responsive layout that adapts to screen size. Add accessibility features for keyboard navigation. Implement progressive difficulty increase during gameplay.
 
 ---
 
