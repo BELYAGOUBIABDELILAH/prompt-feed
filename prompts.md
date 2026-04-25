@@ -262,6 +262,7 @@
 - [💻 Build a comprehensive text analysis...](#build-a-comprehensive-text-analysis-)
 - [💻 Create an interactive Sudoku game...](#create-an-interactive-sudoku-game-)
 - [💻 Develop a feature-rich chess game...](#develop-a-feature-rich-chess-game-)
+- [💻 Build a URL shortening service...](#build-a-url-shortening-service-)
 
 ---
 
@@ -2216,6 +2217,13 @@
 **Category:** `Coding & Tech`
 
 > Develop a feature-rich chess game using HTML5, CSS3, and JavaScript. Create a realistic chessboard with proper piece rendering. Implement standard chess rules with move validation. Add move highlighting and piece movement animation. Include game clock with multiple time control options. Implement notation recording with PGN export. Add game analysis with move evaluation. Include AI opponent with adjustable difficulty levels. Support online play with WebRTC or WebSocket. Add opening book and common patterns recognition. Implement tournament mode with brackets and scoring.
+
+---
+
+## 💻 Build a URL shortening service...
+**Category:** `Coding & Tech`
+
+> Build a URL shortening service frontend using HTML5, CSS3, JavaScript and a backend API. Create a clean interface with prominent input field. Implement URL validation and sanitization. Add QR code generation for shortened URLs. Include click tracking and analytics dashboard. Support custom alias creation for URLs. Implement expiration date setting for links. Add password protection option for sensitive URLs. Include copy-to-clipboard functionality with confirmation. Create a responsive design for all devices. Add history of shortened URLs with search and filtering.
 
 ---
 
