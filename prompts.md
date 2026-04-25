@@ -269,6 +269,7 @@
 - [🤖 Build a high-performance file system...](#build-a-high-performance-file-system-)
 - [💻 Create an exciting 3D racing...](#create-an-exciting-3d-racing-)
 - [💻 Create a high-performance HTTP benchmarking...](#create-a-high-performance-http-benchmarking-)
+- [💻 Build an immersive 3D space...](#build-an-immersive-3d-space-)
 
 ---
 
@@ -2272,6 +2273,13 @@
 **Category:** `Coding & Tech`
 
 > Create a high-performance HTTP benchmarking tool in Go. Implement concurrent request generation with configurable thread count. Add detailed statistics including latency, throughput, and error rates. Include support for HTTP/1.1, HTTP/2, and HTTP/3. Implement custom header and cookie management. Add request templating for dynamic content. Include response validation with regex and status code checking. Implement TLS configuration with certificate validation options. Add load profile configuration with ramp-up and steady-state phases. Include detailed reporting with percentiles and histograms. Implement distributed testing mode for high-load scenarios.
+
+---
+
+## 💻 Build an immersive 3D space...
+**Category:** `Coding & Tech`
+
+> Build an immersive 3D space exploration game using Three.js and JavaScript. Create a vast universe with procedurally generated planets, stars, and nebulae. Implement realistic spacecraft controls with Newtonian physics. Add detailed planet surfaces with terrain generation and atmospheric effects. Create space stations and outposts for trading and missions. Implement resource collection and cargo management systems. Add alien species with unique behaviors and interactions. Create wormhole travel effects between star systems. Include detailed ship customization and upgrade system. Implement mining and combat mechanics with weapon effects. Add mission system with story elements and objectives.
 
 ---
 
