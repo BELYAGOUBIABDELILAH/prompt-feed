@@ -1,4 +1,5 @@
 # 🚀 Daily AI Prompts
+<!-- updated -->
 
 ## 📑 Table of Contents
 
