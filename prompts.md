@@ -275,6 +275,7 @@
 - [💻 Build a comprehensive health metrics...](#build-a-comprehensive-health-metrics-)
 - [💻 Build a feature-rich markdown notes...](#build-a-feature-rich-markdown-notes-)
 - [💻 Create a comprehensive pomodoro timer...](#create-a-comprehensive-pomodoro-timer-)
+- [💻 Create an immersive multiplayer airplane...](#create-an-immersive-multiplayer-airplane-)
 
 ---
 
@@ -2320,6 +2321,13 @@
 **Category:** `Coding & Tech`
 
 > Create a comprehensive pomodoro timer app using HTML5, CSS3 and JavaScript following the time management technique. Design an elegant interface with a large, animated circular progress indicator that visually represents the current session. Allow customization of work intervals (default ${Work Intervals:25min}), short breaks (default ${Short Breaks:5min}), and long breaks (default ${Long Breaks:15min}). Include a task list integration where users can associate pomodoro sessions with specific tasks. Add configurable sound notifications for interval transitions with volume control. Implement detailed statistics tracking daily/weekly productivity with visual charts. Use localStorage to persist settings and history between sessions. Make the app installable as a PWA with offline support and notifications. Add keyboard shortcuts for quick timer control (start/pause/reset). Include multiple theme options with customizable colors and fonts. Add a focus mode that blocks distractions during work intervals.
+
+---
+
+## 💻 Create an immersive multiplayer airplane...
+**Category:** `Coding & Tech`
+
+> Create an immersive multiplayer airplane combat game using Three.js, HTML5, CSS3, and JavaScript with WebSocket for real-time networking. Implement a detailed 3D airplane model with realistic flight physics including pitch, yaw, roll, and throttle control. Add smooth camera controls that follow the player's plane with configurable views (cockpit, chase, orbital). Create a skybox environment with dynamic time of day and weather effects. Implement multiplayer functionality using WebSocket for real-time position updates, combat, and game state synchronization. Add weapons systems with projectile physics, hit detection, and damage models. Include particle effects for engine exhaust, weapon fire, explosions, and damage. Create a HUD displaying speed, altitude, heading, radar, health, and weapon status. Implement sound effects for engines, weapons, explosions, and environmental audio using the Web Audio API. Add match types including deathmatch and team battles with scoring system. Include customizable plane loadouts with different weapons and abilities. Create a lobby system for match creation and team assignment. Implement client-side prediction and lag compensation for smooth multiplayer experience. Add mini-map showing player positions and objectives. Include replay system for match playback and highlight creation. Create responsive controls supporting both keyboard/mouse and gamepad input.
 
 ---
 
