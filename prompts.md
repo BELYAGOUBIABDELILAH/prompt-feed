@@ -287,6 +287,7 @@
 - [✍️ Rewrite the user’s text so...](#rewrite-the-user-s-text-so-)
 - [🤖 Create a hyper-realistic 3D diorama-style...](#create-a-hyper-realistic-3d-diorama-style-)
 - [🤖 "When I give you a...](#-when-i-give-you-a-)
+- [✍️ Based on the source image,...](#based-on-the-source-image-)
 
 ---
 
@@ -2471,6 +2472,13 @@
 > "When I give you a movie quote, never reply with text or a prompt. Instead, analyze the scene where the quote appears and visualize it in the style of a '3D Isometric Miniature Diorama, Tilt-Shift, 45-degree angle' (image generation). Provide only the image."
 > 
 > Quote = "You shall not pass!"
+
+---
+
+## ✍️ Based on the source image,...
+**Category:** `Writing & Language`
+
+> Based on the source image, overlay an architect's busy working process onto the entire scene. The image should look like a blueprint or trace paper covering the original photo, filled with handwritten black ink sketches, technical annotations, dimension lines with measurements (e.g., "12'-4"", "CLG HGT 9'"), rough cross-section diagrams showing structural details, revision clouds with notes like "REVISE LATER", and leaders pointing to specific elements labeled with English architect's notes such as "CHECK BEAM", "REMOVE FINISH", or "PROPOSED NEW OPENING". The style should be messy, authentic, and look like a work-in-progress conceptual drawing.
 
 ---
 
