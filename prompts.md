@@ -265,6 +265,7 @@
 - [💻 Build a URL shortening service...](#build-a-url-shortening-service-)
 - [💻 Build an interactive typing speed...](#build-an-interactive-typing-speed-)
 - [💻 Develop a memory matching card...](#develop-a-memory-matching-card-)
+- [🌍 Develop a memory profiling tool...](#develop-a-memory-profiling-tool-)
 
 ---
 
@@ -2240,6 +2241,13 @@
 **Category:** `Coding & Tech`
 
 > Develop a memory matching card game using HTML5, CSS3, and JavaScript. Create visually appealing card designs with flip animations. Implement difficulty levels with varying grid sizes and card counts. Add timer and move counter for scoring. Include sound effects for card flips and matches. Implement leaderboard with score persistence. Add theme selection with different card designs. Include multiplayer mode for competitive play. Create responsive layout that adapts to screen size. Add accessibility features for keyboard navigation. Implement progressive difficulty increase during gameplay.
+
+---
+
+## 🌍 Develop a memory profiling tool...
+**Category:** `Travel & Lifestyle`
+
+> Develop a memory profiling tool in C for analyzing process memory usage. Implement process attachment with minimal performance impact. Add heap analysis with allocation tracking. Include memory leak detection with stack traces. Implement memory usage visualization with detailed statistics. Add custom allocator hooking for detailed tracking. Include report generation in multiple formats. Implement filtering options for noise reduction. Add comparison functionality between snapshots. Include command-line interface with interactive mode. Implement signal handling for clean detachment.
 
 ---
 
