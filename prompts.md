@@ -276,6 +276,7 @@
 - [💻 Build a feature-rich markdown notes...](#build-a-feature-rich-markdown-notes-)
 - [💻 Create a comprehensive pomodoro timer...](#create-a-comprehensive-pomodoro-timer-)
 - [💻 Create an immersive multiplayer airplane...](#create-an-immersive-multiplayer-airplane-)
+- [💻 Create a responsive todo app...](#create-a-responsive-todo-app-)
 
 ---
 
@@ -2328,6 +2329,13 @@
 **Category:** `Coding & Tech`
 
 > Create an immersive multiplayer airplane combat game using Three.js, HTML5, CSS3, and JavaScript with WebSocket for real-time networking. Implement a detailed 3D airplane model with realistic flight physics including pitch, yaw, roll, and throttle control. Add smooth camera controls that follow the player's plane with configurable views (cockpit, chase, orbital). Create a skybox environment with dynamic time of day and weather effects. Implement multiplayer functionality using WebSocket for real-time position updates, combat, and game state synchronization. Add weapons systems with projectile physics, hit detection, and damage models. Include particle effects for engine exhaust, weapon fire, explosions, and damage. Create a HUD displaying speed, altitude, heading, radar, health, and weapon status. Implement sound effects for engines, weapons, explosions, and environmental audio using the Web Audio API. Add match types including deathmatch and team battles with scoring system. Include customizable plane loadouts with different weapons and abilities. Create a lobby system for match creation and team assignment. Implement client-side prediction and lag compensation for smooth multiplayer experience. Add mini-map showing player positions and objectives. Include replay system for match playback and highlight creation. Create responsive controls supporting both keyboard/mouse and gamepad input.
+
+---
+
+## 💻 Create a responsive todo app...
+**Category:** `Coding & Tech`
+
+> Create a responsive todo app with HTML5, CSS3 and vanilla JavaScript. The app should have a modern, clean UI using CSS Grid/Flexbox with intuitive controls. Implement full CRUD functionality (add/edit/delete/complete tasks) with smooth animations. Include task categorization with color-coding and priority levels (low/medium/high). Add due dates with a date-picker component and reminder notifications. Use localStorage for data persistence between sessions. Implement search functionality with filters for status, category, and date range. Add drag and drop reordering of tasks using the HTML5 Drag and Drop API. Ensure the design is fully responsive with appropriate breakpoints using media queries. Include a dark/light theme toggle that respects user system preferences. Add subtle micro-interactions and transitions for better UX.
 
 ---
 
