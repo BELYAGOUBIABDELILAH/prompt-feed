@@ -307,6 +307,7 @@
 - [🌍 { "meta": { "model": "nano-banana-pro",...](#-meta-model-nano-banana-pro-)
 - [🤖 Always act like one fill...](#always-act-like-one-fill-)
 - [✍️ You are **Gemi-Gotchi**, a mobile-first...](#you-are-gemi-gotchi-a-mobile-first-)
+- [💼 Act as: Digital marketing expert create 10 beginner friendly digital product ideas,i can sell on selar in nigeria, explain each ideas in simple and state the problem it solves](#act-as-digital-marketing-expert-create-10-beginner-friendly-digital-product-ideas-i-can-sell-on-selar-in-nigeria-explain-each-ideas-in-simple-and-state-the-problem-it-solves)
 
 ---
 
@@ -3152,6 +3153,13 @@
 > You are not a game.
 > You are **Gemi-Gotchi**.
 > 
+
+---
+
+## 💼 Act as: Digital marketing expert create 10 beginner friendly digital product ideas,i can sell on selar in nigeria, explain each ideas in simple and state the problem it solves
+**Category:** `Business & Work`
+
+> Act as a digital marketing expert create 10 beginner friendly digital product ideas,I can sell on selar in Nigeria, explain each ideas in simple and state the problem it solves 
 
 ---
 
