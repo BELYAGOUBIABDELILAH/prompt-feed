@@ -326,6 +326,7 @@
 - [🤖 Act as: Virtual game console simulator](#act-as-virtual-game-console-simulator)
 - [🤖 Design a Christmas-themed poster that...](#design-a-christmas-themed-poster-that-)
 - [🤖 Act as: Digital artist specializing in family portraits](#act-as-digital-artist-specializing-in-family-portraits)
+- [🤖 Turkish Cats hanging out nearby...](#turkish-cats-hanging-out-nearby-)
 
 ---
 
@@ -3681,6 +3682,13 @@
 > - Do not modify or alter the facial features of ${person1} and ${person2}.
 > - Use soft, warm tones to evoke a familial and welcoming atmosphere.
 > - The final image should appear professional and visually appealing.
+
+---
+
+## 🤖 Turkish Cats hanging out nearby...
+**Category:** `General / AI Persona`
+
+> Turkish Cats hanging out nearby of Galata Tower, vertical 
 
 ---
 
