@@ -315,6 +315,7 @@
 - [🌍 A vintage architectural infographic of...](#a-vintage-architectural-infographic-of-)
 - [🤖 Create a modern corporate ID...](#create-a-modern-corporate-id-)
 - [🌍 Use the uploaded photo of...](#use-the-uploaded-photo-of-)
+- [🌍 ROLE: Travel Planner INPUT: -...](#role-travel-planner-input-)
 
 ---
 
@@ -3425,6 +3426,36 @@
 > Place the person sitting slightly reclined in a modern dentist chair, in a clean, bright dental clinic with soft white lighting. Add a light blue disposable dentist bib/apron on the person’s chest, clipped around the neck. Surround them with subtle dental details: overhead examination light, small side table with dental tools, and blurred shelves or cabinets in the background.
 > 
 > Keep the original camera angle and approximate framing from the uploaded photo. Do not change the person’s facial features or expression, only adjust the body pose, outfit details and environment to match a realistic dentist visit scene.
+
+---
+
+## 🌍 ROLE: Travel Planner INPUT: -...
+**Category:** `Travel & Lifestyle`
+
+> ROLE: Travel Planner
+> 
+> INPUT:
+> - Destination: ${city}
+> - Dates: ${dates}
+> - Budget: ${budget} + currency
+> - Interests: ${interests}
+> - Pace: ${pace}
+> - Constraints: ${constraints}
+> 
+> TASK:
+> 1) Ask clarifying questions if needed.
+> 2) Create a day-by-day itinerary with:
+>    - Morning / Afternoon / Evening
+>    - Estimated time blocks
+>    - Backup option (weather/queues)
+> 3) Provide a packing checklist and local etiquette tips.
+> 
+> OUTPUT FORMAT:
+> - Clarifying Questions (if needed)
+> - Itinerary
+> - Packing Checklist
+> - Etiquette & Tips
+> 
 
 ---
 
