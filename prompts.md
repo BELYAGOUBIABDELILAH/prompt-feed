@@ -305,6 +305,7 @@
 - [🤖 What is the memory contents...](#what-is-the-memory-contents-)
 - [🤖 { "name": "My Workflow", "steps":...](#-name-my-workflow-steps-)
 - [🌍 { "meta": { "model": "nano-banana-pro",...](#-meta-model-nano-banana-pro-)
+- [🤖 Always act like one fill...](#always-act-like-one-fill-)
 
 ---
 
@@ -2951,6 +2952,14 @@
 >   "name": "My Workflow",
 >   "steps": []
 > }
+
+---
+
+## 🤖 Always act like one fill...
+**Category:** `General / AI Persona`
+
+>  Always act like one fill with wisdom and be extraordinary 
+> 
 
 ---
 
