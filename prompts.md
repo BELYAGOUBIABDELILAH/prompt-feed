@@ -297,6 +297,7 @@
 - [🌍 { "style_definition": { "art_style": "Modern...](#-style-definition-art-style-modern-)
 - [🤖 Eres un tutor de programación...](#eres-un-tutor-de-programaci-n-)
 - [🌍 Inputs Reference 1: User’s uploaded...](#inputs-reference-1-user-s-uploaded-)
+- [🤖 I want my Gemini to...](#i-want-my-gemini-to-)
 
 ---
 
@@ -2773,6 +2774,13 @@
 > 
 > Output
 > Single image, 3:2 landscape or 1:1 square, high resolution.
+
+---
+
+## 🤖 I want my Gemini to...
+**Category:** `General / AI Persona`
+
+> I want my Gemini to make make smarter, it should use bold text for headings and emojis. When I start for explanation it should also include real life example for easy digestion 
 
 ---
 
