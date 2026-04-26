@@ -312,6 +312,7 @@
 - [🤖 A double exposure portrait set...](#a-double-exposure-portrait-set-)
 - [🌍 A single photograph of ${location:Galata...](#a-single-photograph-of-location-galata-)
 - [🌍 Generate a whimsical miniature world...](#generate-a-whimsical-miniature-world-)
+- [🌍 A vintage architectural infographic of...](#a-vintage-architectural-infographic-of-)
 
 ---
 
@@ -3378,6 +3379,13 @@
 > At the top-center, add the city name ${city_name} in a clean, bold, friendly rounded font that matches the playful clay aesthetic. The text should be clearly readable and high-contrast against the sky, with subtle depth as if it is also made from clay (slight 3D clay lettering), but keep it simple and not overly detailed.
 > 
 > Include no other text, words, or signage anywhere else in the scene. Only sculptural clay elements should define the location through recognizable architectural features. 1080x1080 dimension.
+
+---
+
+## 🌍 A vintage architectural infographic of...
+**Category:** `Travel & Lifestyle`
+
+> A vintage architectural infographic of ${historic_site_name} that blends art and technical clarity: a detailed front elevation at the center, a clean line-art landscape of ${location} behind it, and annotated dimension lines with sample values like “${height_value_1}” and “${height_value_2}”. Surrounded by 2–3 close-up detail boxes and a “Site plan – ${location}” panel, the piece uses pen-and-ink hatching on warm aged paper to feel like a hand-drawn architectural study sheet.
 
 ---
 
