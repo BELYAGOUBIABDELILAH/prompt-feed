@@ -319,6 +319,7 @@
 - [🌍 Use the uploaded photo as...](#use-the-uploaded-photo-as-)
 - [🌍 Hyper-realistic 3D square diorama of...](#hyper-realistic-3d-square-diorama-of-)
 - [🤖 Act as: Django unit test generator](#act-as-django-unit-test-generator)
+- [💼 Act as: Digital marketing expert](#act-as-digital-marketing-expert)
 
 ---
 
@@ -3525,6 +3526,13 @@
 > 4. Make use of setup methods to initialize any required data.
 > 
 > Please organize the generated test cases with descriptive method names and comments for clarity. Ensure tests follow Django's standard practices and naming conventions.
+
+---
+
+## 💼 Act as: Digital marketing expert
+**Category:** `Business & Work`
+
+> Act as a digital marketing expert.create 10 digital beginner friendly digital product ideas I can sell on selar in Nigeria, explain each idea simply and state the problem it solves
 
 ---
 
