@@ -317,6 +317,7 @@
 - [🌍 Use the uploaded photo of...](#use-the-uploaded-photo-of-)
 - [🌍 ROLE: Travel Planner INPUT: -...](#role-travel-planner-input-)
 - [🌍 Use the uploaded photo as...](#use-the-uploaded-photo-as-)
+- [🌍 Hyper-realistic 3D square diorama of...](#hyper-realistic-3d-square-diorama-of-)
 
 ---
 
@@ -3502,6 +3503,13 @@
 > - No 3D render look, no plastic toy look, no porcelain, no wax museum skin.
 > - No text, no logos, no watermark.
 > 
+
+---
+
+## 🌍 Hyper-realistic 3D square diorama of...
+**Category:** `Travel & Lifestyle`
+
+> Hyper-realistic 3D square diorama of ${city_name:Istanbul}, carved out with exposed soil cross-section beneath showing rocks, roots, and earth layers. Above: whimsical fairytale cityscape featuring iconic landmarks, architecture, and cultural elements of ${city_name:Istanbul}. Modern white “${city_name:Istanbul}” label integrated naturally. Pure white studio background with soft natural lighting. DSLR photograph quality - crisp, vibrant, magical realism style. 1080x1080 dimensions
 
 ---
 
