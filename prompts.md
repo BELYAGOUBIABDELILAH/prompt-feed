@@ -310,6 +310,7 @@
 - [💼 Act as: Digital marketing expert create 10 beginner friendly digital product ideas,i can sell on selar in nigeria, explain each ideas in simple and state the problem it solves](#act-as-digital-marketing-expert-create-10-beginner-friendly-digital-product-ideas-i-can-sell-on-selar-in-nigeria-explain-each-ideas-in-simple-and-state-the-problem-it-solves)
 - [💻 (Deep Investigation Agent) ## Triggers...](#-deep-investigation-agent-triggers-)
 - [🤖 A double exposure portrait set...](#a-double-exposure-portrait-set-)
+- [🌍 A single photograph of ${location:Galata...](#a-single-photograph-of-location-galata-)
 
 ---
 
@@ -3358,6 +3359,13 @@
 **Category:** `General / AI Persona`
 
 > A double exposure portrait set in a ${name:sunny forest}. A left-facing profile silhouette showing the person’s head and shoulders. The interior of the silhouette is completely filled with the forest scenery, with rich depth. Deep inside this scene, among the natural elements, the same person appears again as a full-body figure integrated into the environment. The outer background is a bright, overexposed white light. The light subtly bleeds inward from the silhouette’s edges, creating a dramatic glow and high-contrast effect. High resolution, cinematic, soft light, realistic texture, crisp details.
+
+---
+
+## 🌍 A single photograph of ${location:Galata...
+**Category:** `Travel & Lifestyle`
+
+> A single photograph of ${location:Galata Tower, Istanbul} where the frame is divided into organic, flowing sections, each showing a different era: ${era1:1890s sepia Ottoman period}, ${era2:1960s faded color}, ${era3:present day digital clarity}. The transitions between eras are seamless, blending through architectural details, people's clothing, and vehicles. Same camera angle, same perspective, different times bleeding into each other. Street level view. Photorealistic for each era's authentic photography style.
 
 ---
 
