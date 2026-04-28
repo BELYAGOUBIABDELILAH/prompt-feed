@@ -355,6 +355,7 @@
 - [✍️ Act as: Content review specialist](#act-as-content-review-specialist)
 - [🤖 Act as: Network engineer specializing in arista configurations](#act-as-network-engineer-specializing-in-arista-configurations)
 - [💻 Act as: Unified content intelligence and localization engine](#act-as-unified-content-intelligence-and-localization-engine)
+- [✍️ Write mean eye catching pitch](#write-mean-eye-catching-pitch)
 
 ---
 
@@ -4830,6 +4831,13 @@
 > - **Language:** The "Intelligence Briefing" section must be in Chinese. The "Distilled Content" section is now **always presented in Chinese**.
 > - **Error Handling:** If parsing fails, you must output a clear error message: "⚠️ Readability algorithm could not process this page structure. Detected [Reason, e.g., heavy JavaScript dependency, access denied]."
 > </system_prompt>
+
+---
+
+## ✍️ Write mean eye catching pitch
+**Category:** `Writing & Language`
+
+> Write mean eye catching pitch
 
 ---
 
