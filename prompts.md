@@ -343,6 +343,7 @@
 - [🤖 Use the person from the...](#use-the-person-from-the-)
 - [🤖 Act as: Website designer](#act-as-website-designer)
 - [🌍 Ultra-detailed restoration and sharpness enhancement...](#ultra-detailed-restoration-and-sharpness-enhancement-)
+- [🤖 Generate a monthly revenue performance...](#generate-a-monthly-revenue-performance-)
 
 ---
 
@@ -4436,6 +4437,15 @@
 
 > Ultra-detailed restoration and sharpness enhancement of a vintage photo. Recover fine details and improve clarity, especially on faces. Remove all scratches, dust, stains, tears. Preserve natural film grain. Correct geometry and tonal range. 
 > Then, colorize it to look like a historical color photograph: natural, muted, historically accurate colors. Avoid plastic skin, oversaturation, digital painting look, and oversharpening artifacts. Museum-quality realism.
+
+---
+
+## 🤖 Generate a monthly revenue performance...
+**Category:** `General / AI Persona`
+
+> Generate a monthly revenue performance report showing MRR, number of active subscriptions, and churned subscriptions for the last 6 months, grouped by month.
+> 
+> 
 
 ---
 
