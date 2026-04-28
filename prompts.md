@@ -342,6 +342,7 @@
 - [🤖 Act as: Monetization strategy analyst for a mobile game](#act-as-monetization-strategy-analyst-for-a-mobile-game)
 - [🤖 Use the person from the...](#use-the-person-from-the-)
 - [🤖 Act as: Website designer](#act-as-website-designer)
+- [🌍 Ultra-detailed restoration and sharpness enhancement...](#ultra-detailed-restoration-and-sharpness-enhancement-)
 
 ---
 
@@ -4427,6 +4428,14 @@
 > - ${centerCard} to indicate which plan is the most expensive.
 > 
 > Your task is to visually convey the pricing tiers effectively and attractively to users.
+
+---
+
+## 🌍 Ultra-detailed restoration and sharpness enhancement...
+**Category:** `Travel & Lifestyle`
+
+> Ultra-detailed restoration and sharpness enhancement of a vintage photo. Recover fine details and improve clarity, especially on faces. Remove all scratches, dust, stains, tears. Preserve natural film grain. Correct geometry and tonal range. 
+> Then, colorize it to look like a historical color photograph: natural, muted, historically accurate colors. Avoid plastic skin, oversaturation, digital painting look, and oversharpening artifacts. Museum-quality realism.
 
 ---
 
