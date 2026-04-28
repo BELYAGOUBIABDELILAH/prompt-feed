@@ -346,6 +346,7 @@
 - [🤖 Generate a monthly revenue performance...](#generate-a-monthly-revenue-performance-)
 - [🌍 Render the city of ${city_name}...](#render-the-city-of-city-name-)
 - [✍️ Create an ultra-realistic, high-budget cinematic...](#create-an-ultra-realistic-high-budget-cinematic-)
+- [🤖 A modern apartment in Montenegro...](#a-modern-apartment-in-montenegro-)
 
 ---
 
@@ -4553,6 +4554,13 @@
 > The final image should feel like a real, official movie poster —
 > localized in identity, grounded in realism, cinematic in every detail.
 > 
+
+---
+
+## 🤖 A modern apartment in Montenegro...
+**Category:** `General / AI Persona`
+
+> A modern apartment in Montenegro with a panoramic sea view. A bright, spacious living room with a calm, elegant interior. A mother and her son are sitting on the sofa, a blanket and soft cushions nearby, creating a feeling of warmth and closeness. There is a sense of quiet celebration in the air, with the New Year just around the corner and the home filled with comfort and a peaceful family atmosphere.
 
 ---
 
