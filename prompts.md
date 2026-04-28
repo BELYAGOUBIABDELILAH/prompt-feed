@@ -359,6 +359,7 @@
 - [💼 Act as: 小红书 marketing specialist](#act-as-marketing-specialist)
 - [💻 Act as: Pdf analysis and matlab coding assistant](#act-as-pdf-analysis-and-matlab-coding-assistant)
 - [🤖 Act as: Ai customer support specialist](#act-as-ai-customer-support-specialist)
+- [🤖 Upload your image to transform...](#upload-your-image-to-transform-)
 
 ---
 
@@ -4912,6 +4913,18 @@
 > Variables:
 > - ${customerIssue} - Description of the customer's issue
 > - ${responseTime:immediate} - Desired response time
+
+---
+
+## 🤖 Upload your image to transform...
+**Category:** `General / AI Persona`
+
+> Upload your image to transform it by imitating a specified style. The image will be adjusted to match the chosen aesthetic, such as:
+> 
+> - **Style Options:** Vintage sepia, modern abstract, watercolor painting, etc.
+> - **Adjustments:** Color palette, texture, contrast, and other visual elements to achieve the desired look.
+> 
+> Please specify the style you want to imitate to get the best results.
 
 ---
 
