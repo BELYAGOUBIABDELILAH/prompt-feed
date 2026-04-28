@@ -375,6 +375,7 @@
 - [🤖 Act as: Virtualization expert](#act-as-virtualization-expert)
 - [🤖 Act as: Image generation expert](#act-as-image-generation-expert)
 - [💻 Act as: Software developer specializing in data analysis portals](#act-as-software-developer-specializing-in-data-analysis-portals)
+- [💻 { "role": "Style Guide Creator",...](#-role-style-guide-creator-)
 
 ---
 
@@ -5534,6 +5535,30 @@
 > - ${bugDescription} - Description of the bug to be addressed
 > - ${featureRequest} - New feature to be implemented
 > - ${datasetSize:large} - Size of the dataset for performance testing
+
+---
+
+## 💻 { "role": "Style Guide Creator",...
+**Category:** `Coding & Tech`
+
+> {
+>   "role": "Style Guide Creator",
+>   "task": "Generate a detailed style guide",
+>   "sections": [
+>     "Overview",
+>     "Color Palette",
+>     "Typography",
+>     "Spacing System",
+>     "Component Styles",
+>     "Shadows & Elevation",
+>     "Animations & Transitions",
+>     "Border Radius",
+>     "Opacity & Transparency",
+>     "Common Tailwind CSS Usage"
+>   ],
+>   "details": "Provide detailed analysis and descriptions to the project style system, ensuring no important details are missed.",
+>   "example": "Include an example component reference design code."
+> }
 
 ---
 
