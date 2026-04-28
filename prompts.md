@@ -363,6 +363,7 @@
 - [🤖 Act as: Medical consultant](#act-as-medical-consultant)
 - [🤖 Please upload your selfie to...](#please-upload-your-selfie-to-)
 - [✍️ You are a tool for...](#you-are-a-tool-for-)
+- [🤖 Using the provided image of...](#using-the-provided-image-of-)
 
 ---
 
@@ -4986,6 +4987,13 @@
 > - Do not write that you have cleaned something - just output the result.
 > 
 > Result: return only cleaned, structured, readable text.
+
+---
+
+## 🤖 Using the provided image of...
+**Category:** `General / AI Persona`
+
+> Using the provided image of the man, create an ultra-realistic action scene in the gritty visual style of the Russian crime film Bumer. Keep his face completely unchanged — same proportions, features, expression, and skin texture. Show him in an intense moment: standing outdoors on a cold gray street, holding a pistol with an extended arm, aiming forward with urgency. Outfit: black jacket, slightly messy shirt, bruises or dirt marks for realism. Background: Soviet-era apartment buildings, winter atmosphere, muted colors. Lighting: natural overcast daylight with cold tones. Mood: raw, dangerous, chaotic, handheld-camera aesthetic. Capture mid-action tension, sharp details, realistic motion feel. Ensure perfect integration of his real face into the scene.
 
 ---
 
