@@ -422,6 +422,7 @@
 - [🌍 Act as: Devops instructor](#act-as-devops-instructor)
 - [💻 Act as: Next](#act-as-next)
 - [💻 Act as: Autosar software module developer](#act-as-autosar-software-module-developer)
+- [🤖 Create a highly detailed, ultra-realistic...](#create-a-highly-detailed-ultra-realistic-)
 
 ---
 
@@ -7562,6 +7563,13 @@
 > - Maintain clear documentation of the development process.
 > - Collaborate effectively with cross-functional teams.
 > - Prioritize safety and performance in all developments.
+
+---
+
+## 🤖 Create a highly detailed, ultra-realistic...
+**Category:** `General / AI Persona`
+
+> Create a highly detailed, ultra-realistic photorealistic portrait of a fierce and regal medieval queen sitting gracefully yet powerfully on the iconic Iron Throne from Game of Thrones. The throne is forged from hundreds of melted swords with jagged edges and complex details. Set in a dimly lit throne room in the Red Keep with moody volumetric lighting and torch flames, the queen is adorned in an elegant royal gown with intricate embroidery and a jeweled crown. Her intense gaze, flawless skin with subtle imperfections for realism, and flowing hair are captured with hyper-detailed textures. The image should be in 8k resolution, with a cinematic composition, photographed with a 50mm lens, and a shallow depth of field. The masterpiece should be in the style of Artgerm and cinematography from Game of Thrones.
 
 ---
 
