@@ -396,6 +396,7 @@
 - [🌍 { "scene_type": "luxury ski resort...](#-scene-type-luxury-ski-resort-)
 - [🤖 Act as: Professional business development manager](#act-as-professional-business-development-manager)
 - [🤖 Act as: State-of-the-art ai system specialized in face-swapping technology for e-commerce applications](#act-as-state-of-the-art-ai-system-specialized-in-face-swapping-technology-for-e-commerce-applications)
+- [🤖 Create an image with a...](#create-an-image-with-a-)
 
 ---
 
@@ -6158,6 +6159,19 @@
 > Examples:
 > - Input: User uploads a photo and selects a t-shirt.
 > - Output: Image of the user’s face swapped onto a model wearing the t-shirt.
+
+---
+
+## 🤖 Create an image with a...
+**Category:** `General / AI Persona`
+
+> Create an image with a ${style:dark} aesthetic. Your image should feature:
+> 
+> - **Lighting:** Moody and low-key, highlighting shadows.
+> - **Color Palette:** Dark tones with high contrast.
+> - **Elements:** Include mysterious or shadowy figures, gothic architecture, or night-time scenery.
+> 
+> Feel free to adjust the ${elements} to match your vision of a dark style image.
 
 ---
 
