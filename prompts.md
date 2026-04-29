@@ -392,6 +392,7 @@
 - [🤖 Act as: Aviation data analyst](#act-as-aviation-data-analyst)
 - [🤖 Act as: Content integration specialist](#act-as-content-integration-specialist)
 - [🤖 Minimalist food photograph, [1080x1080] –...](#minimalist-food-photograph-1080x1080-)
+- [🌍 { "shot": { "composition": "medium...](#-shot-composition-medium-)
 
 ---
 
@@ -5966,6 +5967,44 @@
 **Category:** `General / AI Persona`
 
 > Minimalist food photograph, [1080x1080] – a single ${food} rests on a light, matte surface and is captured mid-transformation into a 3D pixelized form: one half remains intact while the other organically fragments into large, floating cubes that drift outward, each cube revealing the object’s texture, ingredients, and colors. Studio lighting with soft, realistic shadows, shallow depth of field, tasteful perspective and composition, hyperrealistic detail, stylish geometric abstraction, subtle motion blur on the cubes, high resolution, cinematic close-up.
+
+---
+
+## 🌍 { "shot": { "composition": "medium...
+**Category:** `Travel & Lifestyle`
+
+> {
+>   "shot": {
+>     "composition": "medium full-body shot with the subject reclining on a white curved platform against a deep black background",
+>     "camera_proximity": "medium_full_shot",
+>     "camera_angle": "eye_level",
+>     "film_grain": "digital_clean_no_grain"
+>   },
+>   "subject": {
+>     "description": "female subject whose facial features, hair appearance, body proportions and overall look match the reference image, captured in a serene editorial pose",
+>     "wardrobe": "white fuzzy tube top paired with matching shorts and oversized white fuzzy earmuffs",
+>     "emotion_and_mood": "calm, elegant, minimal",
+>     "pose": "reclining on the curved platform with the right arm supporting the upper body and the left arm resting softly on the thigh, gaze directed off-camera to the right"
+>   },
+>   "visual_details": {
+>     "action": "static composed pose emphasizing clean lines and contrast between textures",
+>     "props": "white curved platform, chunky silver bracelets worn on both wrists"
+>   },
+>   "scene": {
+>     "location": "minimalist indoor studio with a black backdrop",
+>     "time_of_day": "controlled studio lighting",
+>     "environment": "clean modern studio space with strong contrast between white elements and dark surroundings"
+>   },
+>   "cinematography": {
+>     "lighting": "soft_key",
+>     "tone": "minimal",
+>     "color_palette": "high_contrast_bw"
+>   },
+>   "visual_style": {
+>     "style": "modern minimalist fashion editorial",
+>     "elements": "soft spotlight from the front-left creating gentle highlights and shadows, smooth skin tones, crisp silhouette separation from background, refined texture contrast, no text, no logos"
+>   }
+> }
 
 ---
 
