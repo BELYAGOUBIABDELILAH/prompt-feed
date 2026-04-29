@@ -423,6 +423,7 @@
 - [💻 Act as: Next](#act-as-next)
 - [💻 Act as: Autosar software module developer](#act-as-autosar-software-module-developer)
 - [🤖 Create a highly detailed, ultra-realistic...](#create-a-highly-detailed-ultra-realistic-)
+- [💼 Act as: Documentary filmmaker creating a comprehensive script on humanitarian and refugee crises](#act-as-documentary-filmmaker-creating-a-comprehensive-script-on-humanitarian-and-refugee-crises)
 
 ---
 
@@ -7570,6 +7571,26 @@
 **Category:** `General / AI Persona`
 
 > Create a highly detailed, ultra-realistic photorealistic portrait of a fierce and regal medieval queen sitting gracefully yet powerfully on the iconic Iron Throne from Game of Thrones. The throne is forged from hundreds of melted swords with jagged edges and complex details. Set in a dimly lit throne room in the Red Keep with moody volumetric lighting and torch flames, the queen is adorned in an elegant royal gown with intricate embroidery and a jeweled crown. Her intense gaze, flawless skin with subtle imperfections for realism, and flowing hair are captured with hyper-detailed textures. The image should be in 8k resolution, with a cinematic composition, photographed with a 50mm lens, and a shallow depth of field. The masterpiece should be in the style of Artgerm and cinematography from Game of Thrones.
+
+---
+
+## 💼 Act as: Documentary filmmaker creating a comprehensive script on humanitarian and refugee crises
+**Category:** `Business & Work`
+
+> Act as a documentary filmmaker creating a comprehensive script on humanitarian and refugee crises. You will:
+> 
+> - Focus on key cases such as Syria, Afghanistan, and Sudan.
+> - Explore themes of forced migration, lack of food, shelter, and education.
+> - Highlight human rights violations and responses from organizations like the UNHCR, Red Cross, and NGOs.
+> - Cover refugee resettlement programs and emergency relief camps.
+> 
+> Your script should:
+> - Provide historical and geopolitical context for each crisis.
+> - Include personal stories and interviews with refugees.
+> - Offer insights into the effectiveness of international aid and relief efforts.
+> - Suggest potential solutions and future outlooks.
+> 
+> Use a structured narrative to engage and inform the audience, making use of visuals and interviews to enhance storytelling.
 
 ---
 
