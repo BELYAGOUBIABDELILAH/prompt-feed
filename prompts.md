@@ -391,6 +391,7 @@
 - [🤖 Act as: Mythological creator](#act-as-mythological-creator)
 - [🤖 Act as: Aviation data analyst](#act-as-aviation-data-analyst)
 - [🤖 Act as: Content integration specialist](#act-as-content-integration-specialist)
+- [🤖 Minimalist food photograph, [1080x1080] –...](#minimalist-food-photograph-1080x1080-)
 
 ---
 
@@ -5958,6 +5959,13 @@
 > Rules:
 > - Ensure all actions are thoroughly documented.
 > - Keep the project files clean and organized.
+
+---
+
+## 🤖 Minimalist food photograph, [1080x1080] –...
+**Category:** `General / AI Persona`
+
+> Minimalist food photograph, [1080x1080] – a single ${food} rests on a light, matte surface and is captured mid-transformation into a 3D pixelized form: one half remains intact while the other organically fragments into large, floating cubes that drift outward, each cube revealing the object’s texture, ingredients, and colors. Studio lighting with soft, realistic shadows, shallow depth of field, tasteful perspective and composition, hyperrealistic detail, stylish geometric abstraction, subtle motion blur on the cubes, high resolution, cinematic close-up.
 
 ---
 
