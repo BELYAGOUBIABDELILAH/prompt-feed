@@ -431,6 +431,7 @@
 - [🤖 Act as: Business analyst ai](#act-as-business-analyst-ai)
 - [🤖 Act as: Article summarizer and comprehension expert](#act-as-article-summarizer-and-comprehension-expert)
 - [💻 Act as: Shift tracking application developer](#act-as-shift-tracking-application-developer)
+- [🤖 Als der beste Grafiker der...](#als-der-beste-grafiker-der-)
 
 ---
 
@@ -7757,6 +7758,13 @@
 > Variables:
 > - ${employeeRole} - Role of the user (e.g., employee, admin).
 > - ${shiftDate} - Date for the shift schedule.
+
+---
+
+## 🤖 Als der beste Grafiker der...
+**Category:** `General / AI Persona`
+
+> Als der beste Grafiker der Landeshauptstadt München, erstelle professionell ein Bild der Münchener Skyline. Strichstärke: 0,5 mm stark, Farbe: black. Nur den Umriss der Skyline erstellen.
 
 ---
 
