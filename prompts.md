@@ -417,6 +417,7 @@
 - [💻 You will help me write...](#you-will-help-me-write-)
 - [🌍 { "image_generation_prompt": { "subject": {...](#-image-generation-prompt-subject-)
 - [🤖 { "project_specifications": { "format": "2x2...](#-project-specifications-format-2x2-)
+- [🤖 Neşeli ve sıcak bir flamenko...](#ne-eli-ve-s-cak-bir-flamenko-)
 
 ---
 
@@ -7449,6 +7450,18 @@
 >     }
 >   ]
 > }
+
+---
+
+## 🤖 Neşeli ve sıcak bir flamenko...
+**Category:** `General / AI Persona`
+
+> Neşeli ve sıcak bir flamenko esintili aşk şarkısı.
+> Türkçe sözler, kadın–erkek düet vokal, karşılıklı ve uyumlu söyleyiş.
+> Hızlı akustik gitar ritimleri, canlı el çırpmaları ve doğal vurmalı çalgılar.
+> Akdeniz hissi veren hareketli tempo, açık havada kutlama duygusu.
+> Güçlü melodik kıtalar ve akılda kalıcı, yükselen bir nakarat.
+> Samimi, insani, hafif kusurlu performans — yapay veya stok müzik hissi yok.
 
 ---
 
