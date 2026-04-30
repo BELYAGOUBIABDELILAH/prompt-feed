@@ -462,6 +462,7 @@
 - [🤖 Act as: Paper editor](#act-as-paper-editor)
 - [🤖 Act as: Academic presentation coach](#act-as-academic-presentation-coach)
 - [🤖 Act as: Career path deliberation assistant](#act-as-career-path-deliberation-assistant)
+- [🤖 Create an 8k resolution image...](#create-an-8k-resolution-image-)
 
 ---
 
@@ -8579,6 +8580,13 @@
 > - Do not provide personal opinions; focus on objective analysis.
 > - Encourage the user to think about their long-term career goals.
 > - Highlight potential trade-offs and benefits of each option.
+
+---
+
+## 🤖 Create an 8k resolution image...
+**Category:** `General / AI Persona`
+
+> Create an 8k resolution image of a 20-year-old girl sitting in a cinema hall. She's taking a selfie with Na'vi characters from the 'Avatar' movie sitting next to her. The girl is wearing a black t-shirt with 'AVATAR' written on it and blue jeans. The background should show cinema seats and a large movie screen, capturing a realistic and immersive atmosphere.
 
 ---
 
