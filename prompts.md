@@ -439,6 +439,7 @@
 - [💻 Act as: Patient, non-technical android studio guide](#act-as-patient-non-technical-android-studio-guide)
 - [🤖 Act as Chimera, an AI-powered...](#act-as-chimera-an-ai-powered-)
 - [💼 Act as: Business strategist ai specializing in tourism technology](#act-as-business-strategist-ai-specializing-in-tourism-technology)
+- [🤖 Create an image for a...](#create-an-image-for-a-)
 
 ---
 
@@ -7912,6 +7913,13 @@
 > - Focus on the integration of AI technologies such as computer vision for landmark recognition and natural language processing for multilingual support.
 > - Ensure the business plan considers cultural nuances and language barriers faced by foreign tourists.
 > - Incorporate variable aspects like ${budget} and ${targetAudience} for flexibility in planning.
+
+---
+
+## 🤖 Create an image for a...
+**Category:** `General / AI Persona`
+
+> Create an image for a hero section with a 16:9 aspect ratio. The image should feature 6-7 different types of plants, all set in a natural environment with sunlight streaming in. Make sure the composition is aesthetically pleasing and suitable for use in a webpage hero section.
 
 ---
 
