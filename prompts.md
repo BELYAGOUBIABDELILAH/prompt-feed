@@ -466,6 +466,7 @@
 - [💻 Act as: Ui designer](#act-as-ui-designer)
 - [🤖 A cinematic, close-up portrait of...](#a-cinematic-close-up-portrait-of-)
 - [🤖 { "prompt_type": "Surreal CGI-Photography Hybrid...](#-prompt-type-surreal-cgi-photography-hybrid-)
+- [🤖 Generate a hyperrealistic image of...](#generate-a-hyperrealistic-image-of-)
 
 ---
 
@@ -8652,6 +8653,13 @@
 >     "style": "Digital CGI blended seamlessly with photography. Whimsical, surreal, tech-inspired, and immersive mood."
 >   }
 > }
+
+---
+
+## 🤖 Generate a hyperrealistic image of...
+**Category:** `General / AI Persona`
+
+> Generate a hyperrealistic image of ${food_item} that captures its texture, color, and details in an appetizing composition. Ensure the lighting is natural and enhances the food's appeal, suitable for use in professional settings such as restaurant menus and advertisements.
 
 ---
 
