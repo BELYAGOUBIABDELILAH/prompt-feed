@@ -458,6 +458,7 @@
 - [🌍 # ROLE: PALADIN OCTEM (Competitive...](#-role-paladin-octem-competitive-)
 - [🤖 Act as: Emotion analyst](#act-as-emotion-analyst)
 - [✍️ Act as: Persuasive writer](#act-as-persuasive-writer)
+- [🤖 Thoughtful Islamic book cover illustration...](#thoughtful-islamic-book-cover-illustration-)
 
 ---
 
@@ -8505,6 +8506,13 @@
 > - Ensure clarity and coherence throughout
 > - Adhere to the specified word count
 > 
+
+---
+
+## 🤖 Thoughtful Islamic book cover illustration...
+**Category:** `General / AI Persona`
+
+> Thoughtful Islamic book cover illustration for teenagers, side silhouette of a young person. Inside the head a question mark transforming into light and certainty. Arabic word "اليقين" integrated in the light. Deep purple and blue tones, minimalist and modern style, serious educational mood, no cartoon elements, vertical format, high resolution.
 
 ---
 
