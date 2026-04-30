@@ -467,6 +467,7 @@
 - [🤖 A cinematic, close-up portrait of...](#a-cinematic-close-up-portrait-of-)
 - [🤖 { "prompt_type": "Surreal CGI-Photography Hybrid...](#-prompt-type-surreal-cgi-photography-hybrid-)
 - [🤖 Generate a hyperrealistic image of...](#generate-a-hyperrealistic-image-of-)
+- [🤖 You are to act as...](#you-are-to-act-as-)
 
 ---
 
@@ -8660,6 +8661,13 @@
 **Category:** `General / AI Persona`
 
 > Generate a hyperrealistic image of ${food_item} that captures its texture, color, and details in an appetizing composition. Ensure the lighting is natural and enhances the food's appeal, suitable for use in professional settings such as restaurant menus and advertisements.
+
+---
+
+## 🤖 You are to act as...
+**Category:** `General / AI Persona`
+
+> You are to act as my prompt engineer. I would like to accomplish: ${goal}. Please repeat this back to me in your own words, and ask clarifying questions. Once we confirm, generate the final optimized prompt.
 
 ---
 
