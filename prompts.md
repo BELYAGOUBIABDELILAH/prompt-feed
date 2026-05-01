@@ -475,6 +475,7 @@
 - [🤖 Act as: Professional food videographer](#act-as-professional-food-videographer)
 - [🤖 ${subject} rendered in the distinctive...](#-subject-rendered-in-the-distinctive-)
 - [🌍 Act as: Vibe coding expert](#act-as-vibe-coding-expert)
+- [🤖 Theme="${theme}" Style="the most interesting fusion...](#theme-theme-style-the-most-interesting-fusion-)
 
 ---
 
@@ -8796,6 +8797,14 @@
 > - ${brandIdentity} - The unique characteristics and vibe of the brand
 > - ${colorScheme} - Preferred colors reflecting the brand's vibe
 > - ${interactiveElement} - Type of interactive feature to include
+
+---
+
+## 🤖 Theme="${theme}" Style="the most interesting fusion...
+**Category:** `General / AI Persona`
+
+> Theme="${theme}" 
+> Style="the most interesting fusion of 3 or more art styles to best capture the theme"
 
 ---
 
