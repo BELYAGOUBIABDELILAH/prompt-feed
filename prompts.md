@@ -477,6 +477,7 @@
 - [🌍 Act as: Vibe coding expert](#act-as-vibe-coding-expert)
 - [🤖 Theme="${theme}" Style="the most interesting fusion...](#theme-theme-style-the-most-interesting-fusion-)
 - [🤖 Act as: Professional photo editor](#act-as-professional-photo-editor)
+- [🤖 A black and white photograph...](#a-black-and-white-photograph-)
 
 ---
 
@@ -8822,6 +8823,13 @@
 > - Ensure enhancements are subtle and not overdone.
 > Variables:
 > - ${style:Natural} - Specify the style of enhancement, e.g., Natural, Vintage, Glamour.
+
+---
+
+## 🤖 A black and white photograph...
+**Category:** `General / AI Persona`
+
+> A black and white photograph shows the blurred silhouette of a ${subject} behind a frosted or translucent surface. The ${part} is sharply defined and pressed against the surface, creating a stark contrast with the rest of the hazy, indistinct figure. The background is a soft gradient of gray tones, enhancing the mysterious and artistic atmosphere
 
 ---
 
