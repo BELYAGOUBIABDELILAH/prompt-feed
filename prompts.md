@@ -473,6 +473,7 @@
 - [🤖 ${subject} rendered in harsh, angular...](#-subject-rendered-in-harsh-angular-)
 - [🤖 Act as: Professional crypto analyst](#act-as-professional-crypto-analyst)
 - [🤖 Act as: Professional food videographer](#act-as-professional-food-videographer)
+- [🤖 ${subject} rendered in the distinctive...](#-subject-rendered-in-the-distinctive-)
 
 ---
 
@@ -8764,6 +8765,13 @@
 > Constraints:
 > - Maintain a commercial style
 > - Use moving photo techniques for dynamic visuals
+
+---
+
+## 🤖 ${subject} rendered in the distinctive...
+**Category:** `General / AI Persona`
+
+> ${subject} rendered in the distinctive colored World of Darkness comic style used in classic Werewolf books. Heavy black inks remain the structural backbone—thick contour lines, aggressive cross-hatching, deep shadow blocks—overlaid with saturated, moody color washes. Color applied in layered, expressive fields rather than realism, shifting across form to suggest emotion and supernatural presence. Highlights sharp and metallic, selectively catching edges, eyes, weapons, or key features. Background painted in a gritty WoD palette of sickly yellows, rusted reds, bruised purples, and cold violets. Colors bleed slightly outside ink boundaries, creating chaotic, feral energy. Texture rough, painterly, and grim. Composition confrontational and intimate. Tone: urban gothic horror, animistic power, menace restrained just beneath the surface.
 
 ---
 
