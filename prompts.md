@@ -483,6 +483,7 @@
 - [🤖 Act as: Financial analyst](#act-as-financial-analyst)
 - [✍️ Act as: Film and series summary translator](#act-as-film-and-series-summary-translator)
 - [🤖 Act as: Devops consultant](#act-as-devops-consultant)
+- [🤖 Create a daily and weekly...](#create-a-daily-and-weekly-)
 
 ---
 
@@ -8995,6 +8996,14 @@
 > - Focus on scalability and maintainability of the CI/CD pipeline.
 > - Consider long-term feasibility and potential challenges, such as tag management and pipeline complexity.
 > - Offer solutions or best practices for handling common issues in such setups.
+
+---
+
+## 🤖 Create a daily and weekly...
+**Category:** `General / AI Persona`
+
+> Create a daily and weekly routine that consists of gym and work and self reflection
+> 
 
 ---
 
