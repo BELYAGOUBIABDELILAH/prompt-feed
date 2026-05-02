@@ -512,6 +512,7 @@
 - [🌍 ### Scene Mirror selfie in...](#-scene-mirror-selfie-in-)
 - [🤖 { "Use the attached image...](#-use-the-attached-image-)
 - [🌍 #version 1.0 root{details,prompt:str}: details{atmosphere,camera_angle:str,color_palette,emotion,environmental_elements:str,genre:str,lighting,location:str,subject1,subject2,year:str}: atmosphere[4]:...](#-version-1-0-root-details-prompt-str-details-atmosphere-camera-angle-str-color-palette-emotion-environmental-elements-str-genre-str-lighting-location-str-subject1-subject2-year-str-atmosphere-4-)
+- [🤖 A cartoon ${setting} scene with...](#a-cartoon-setting-scene-with-)
 
 ---
 
@@ -9978,6 +9979,13 @@
 >       subject_expression: "An excited, joyful expression, mouth slightly open in awe."
 >     year: "Retro-Futuristic, 8-bit aesthetic"
 >   prompt: "You will perform an image edit using the people from the provided photos as the main subjects. Preserve their core likeness. Imagine Subject 1 (male) and Subject 2 (female) as blocky, low-polygon explorers discovering a vibrant, floating voxel island in a vast digital void. Subject 1 is contemplative, while Subject 2 is eagerly pointing out a new discovery amidst the pixelated flora."
+
+---
+
+## 🤖 A cartoon ${setting} scene with...
+**Category:** `General / AI Persona`
+
+> A cartoon ${setting} scene with crayon colored ${detail1} and ${detail2} and ${detail3}, like that of a learning child.
 
 ---
 
