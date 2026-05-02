@@ -533,6 +533,7 @@
 - [✍️ Act as: Master chinese web novel author](#act-as-master-chinese-web-novel-author)
 - [🌍 Act as Socrates. You will...](#act-as-socrates-you-will-)
 - [🤖 Create a photorealistic image of...](#create-a-photorealistic-image-of-)
+- [🌍 Present a clear, 45° top-down...](#present-a-clear-45-top-down-)
 
 ---
 
@@ -10521,6 +10522,21 @@
 > Keep realistic animal anatomy and behavior
 > No third-person camera angles
 > The image must feel like a real, candid iPhone selfie taken in the wild
+
+---
+
+## 🌍 Present a clear, 45° top-down...
+**Category:** `Travel & Lifestyle`
+
+> Present a clear, 45° top-down view of a vertical (9:16) isometric miniature 3D cartoon scene, highlighting iconic landmarks centered in the composition to showcase precise and delicate modeling.
+> 
+> The scene features soft, refined textures with realistic PBR materials and gentle, lifelike lighting and shadow effects. Weather elements are creatively integrated into the urban architecture, establishing a dynamic interaction between the city's landscape and atmospheric conditions, creating an immersive weather ambiance.
+> 
+> Use a clean, unified composition with minimalistic aesthetics and a soft, solid-colored background that highlights the main content. The overall visual style is fresh and soothing.
+> 
+> Please retrieve current weather conditions for the specified city before rendering.
+> 
+> City name: ${city_name:Istanbul}
 
 ---
 
