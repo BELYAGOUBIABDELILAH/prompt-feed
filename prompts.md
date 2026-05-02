@@ -521,6 +521,7 @@
 - [🤖 Act as: Health recovery and weight loss specialist](#act-as-health-recovery-and-weight-loss-specialist)
 - [💻 Act as: User guide specialist](#act-as-user-guide-specialist)
 - [🌍 Act as: Software architect](#act-as-software-architect)
+- [💻 You are setting up a...](#you-are-setting-up-a-)
 
 ---
 
@@ -10176,6 +10177,35 @@
 > Rules:
 > - Focus on scalability and efficiency.
 > - Ensure the system supports multi-user access and role-based permissions.
+
+---
+
+## 💻 You are setting up a...
+**Category:** `Coding & Tech`
+
+> You are setting up a new iOS app project in Xcode.
+> 
+> Goal
+> Create a clean iPhone-only app with strict defaults.
+> 
+> Project settings
+> - Minimum iOS Deployment Target: 26.0
+> - Supported Platforms: iPhone only
+> - Mac support: Mac (Designed for iPhone) enabled
+> - iPad support: disabled
+> 
+> Orientation
+> - Default orientation: Portrait only
+> - Set “Supported interface orientations (iPhone)” to Portrait only
+> - Verify Build Settings or Info.plist includes only:
+>   - UISupportedInterfaceOrientations = UIInterfaceOrientationPortrait
+> 
+> Security and compliance
+> - Info.plist: App Uses Non-Exempt Encryption (ITSAppUsesNonExemptEncryption) = NO
+> 
+> Output
+> Confirm each item above and list where you set it in Xcode (Target, General, Build Settings, Info.plist).
+> 
 
 ---
 
