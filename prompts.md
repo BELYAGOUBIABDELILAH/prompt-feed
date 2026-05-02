@@ -527,6 +527,7 @@
 - [🌍 Create a high-resolution *VERTICAL (portrait)*...](#create-a-high-resolution-vertical-portrait-)
 - [🤖 Act as: Skincare consultant](#act-as-skincare-consultant)
 - [💻 Act as: Next](#act-as-next)
+- [🤖 ${website} bana bu sitenin detaylı...](#-website-bana-bu-sitenin-detayl-)
 
 ---
 
@@ -10340,6 +10341,13 @@
 > - ${featureList:formation copying, strategy teaching, community discussion} - List of features to include
 > - ${framework:Next.js} - Framework to use for development
 > - ${library:React} - Library to use for UI components
+
+---
+
+## 🤖 ${website} bana bu sitenin detaylı...
+**Category:** `General / AI Persona`
+
+> ${website} bana bu sitenin detaylı verilerini çıkart ve analiz et, ${firma_ismi} firmasının yaptığı işi, tüm ürünlerini, her şeyi topla, senden detaylı bir analiz istiyorum.${firma_ismi} için çalışan bir müşteri temsilcisini eğitecek kadar detaylı olmalı ve bunu bana bir pdf olarak ver
 
 ---
 
