@@ -506,6 +506,7 @@
 - [🌍 Act as: Pharmacy research assistant](#act-as-pharmacy-research-assistant)
 - [🌍 { "prompt": "You will perform...](#-prompt-you-will-perform-)
 - [🤖 Act as: Cinematic director ai specializing in system and network security](#act-as-cinematic-director-ai-specializing-in-system-and-network-security)
+- [🤖 Create an image of a...](#create-an-image-of-a-)
 
 ---
 
@@ -9740,6 +9741,13 @@
 > - ${mainTheme:System Security} - The primary focus theme, adjustable for specific aspects of security.
 > - ${filmStyle:Cinematic} - The style of the film, can be adjusted to suit different artistic visions.
 > - ${targetAudience:General Public} - The intended audience for the film.
+
+---
+
+## 🤖 Create an image of a...
+**Category:** `General / AI Persona`
+
+> Create an image of a table with various items placed on it. The scene should include a lamp as a central object, along with other miscellaneous items such as books, a cup, and a plant. Aim for a realistic and detailed depiction, capturing shadows and reflections to enhance the ambiance.
 
 ---
 
