@@ -510,6 +510,7 @@
 - [🤖 Act as: Avatar customization expert](#act-as-avatar-customization-expert)
 - [💻 # Frontend Developer You are...](#-frontend-developer-you-are-)
 - [🌍 ### Scene Mirror selfie in...](#-scene-mirror-selfie-in-)
+- [🤖 { "Use the attached image...](#-use-the-attached-image-)
 
 ---
 
@@ -9938,6 +9939,17 @@
 > * NSFW, see-through fabrics, wardrobe malfunctions
 > * Logos, brand names, or readable user interface text
 > * Fake portrait-mode blur, CGI/illustration feel
+
+---
+
+## 🤖 { "Use the attached image...
+**Category:** `General / AI Persona`
+
+> {
+>   "Use the attached image of the person as reference. Hyper-realistic black and white studio portrait of the young man in side profile, natural hair gently falling around his face. Strong rim light accentuating his jawline and nose, dark minimalist background. Expression thoughtful and serene, cinematic lighting creating dramatic contrast and fine photographic detail.",
+>   "size": "{argument name="image size" default="1024x1024"}",
+>   "n": {argument name="number of images" default="1"}
+> }
 
 ---
 
