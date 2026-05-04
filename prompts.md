@@ -586,6 +586,7 @@
 - [🤖 Rédige un e‑mail professionnel destiné...](#r-dige-un-e-mail-professionnel-destin-)
 - [🤖 Ultra high-end fashion product photography...](#ultra-high-end-fashion-product-photography-)
 - [🤖 Generate an image of people...](#generate-an-image-of-people-)
+- [🤖 PRODUCT reflected infinitely in angled...](#product-reflected-infinitely-in-angled-)
 
 ---
 
@@ -12572,6 +12573,15 @@
 **Category:** `General / AI Persona`
 
 > Generate an image of people sunbathing on a sunny beach. Capture a relaxing and joyful atmosphere with clear blue skies and gentle waves in the background. Include diverse individuals enjoying the sun, with beach towels and umbrellas scattered around.
+
+---
+
+## 🤖 PRODUCT reflected infinitely in angled...
+**Category:** `General / AI Persona`
+
+> PRODUCT reflected infinitely in angled mirror arrangement, kaleidoscopic effect, clean geometric multiplication, studio lighting creating precise reflections, optical illusion, maximalist minimalism, disorienting elegance, high-concept advertising 
+> Product="${product}"
+> aspect_ratio="${aspectratio}" 
 
 ---
 
