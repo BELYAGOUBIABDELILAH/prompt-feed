@@ -583,6 +583,7 @@
 - [🌍 { "reference": { "face_identity": "${face_identity:uploaded...](#-reference-face-identity-face-identity-uploaded-)
 - [💻 Act as a .NET API...](#act-as-a-net-api-)
 - [🤖 Act as: Devops engineer specializing in machine learning infrastructure](#act-as-devops-engineer-specializing-in-machine-learning-infrastructure)
+- [🤖 Rédige un e‑mail professionnel destiné...](#r-dige-un-e-mail-professionnel-destin-)
 
 ---
 
@@ -12523,6 +12524,21 @@
 > - Namespace: ${namespace:default}
 > - Training Script Path: ${trainingScript:/path/to/script}
 > - SSH Key: ${sshKey:/path/to/ssh.key}
+
+---
+
+## 🤖 Rédige un e‑mail professionnel destiné...
+**Category:** `General / AI Persona`
+
+> Rédige un e‑mail professionnel destiné à ${type de client} pour lui présenter ${object du mail}.
+> Le ton doit être courtois, précis et concis.
+> 
+> Voici les éléments à intégrer :
+> – Thème principal : ${theme}
+> – Points clés à mentionner : ${points clés}
+> – Action attendue : ${action attendue}
+> 
+> Termine par une phrase de conclusion professionnelle adaptée au contexte bancaire.
 
 ---
 
