@@ -590,6 +590,7 @@
 - [💻 Act as: Code review assistant](#act-as-code-review-assistant)
 - [🌍 Act as: Robotics and ai research assistant](#act-as-robotics-and-ai-research-assistant)
 - [🤖 Act as: E-commerce product selection assistant](#act-as-e-commerce-product-selection-assistant)
+- [🌍 You're in a ${location} crowd...](#you-re-in-a-location-crowd-)
 
 ---
 
@@ -12650,6 +12651,15 @@
 > - Focus on emerging product categories.
 > - Avoid saturated markets unless there's a clear competitive advantage.
 > - Prioritize products with sustainable demand and supply chains.
+
+---
+
+## 🌍 You're in a ${location} crowd...
+**Category:** `Travel & Lifestyle`
+
+> You're in a ${location} crowd looking up at a giant monumental concrete ${object}, weathered with rust, moss and light ivy yet silver gleams break through where harsh sunlight strikes, an iconic cinematic moment frozen in time. People are taking care of their own needs in ${date}.
+> 
+> 
 
 ---
 
