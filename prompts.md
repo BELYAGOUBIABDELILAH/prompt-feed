@@ -585,6 +585,7 @@
 - [🤖 Act as: Devops engineer specializing in machine learning infrastructure](#act-as-devops-engineer-specializing-in-machine-learning-infrastructure)
 - [🤖 Rédige un e‑mail professionnel destiné...](#r-dige-un-e-mail-professionnel-destin-)
 - [🤖 Ultra high-end fashion product photography...](#ultra-high-end-fashion-product-photography-)
+- [🤖 Generate an image of people...](#generate-an-image-of-people-)
 
 ---
 
@@ -12564,6 +12565,13 @@
 > No logo, no model face, no hands, no watermark.
 > 
 > Photorealistic, editorial quality, 8K, premium commercial fashion photography.
+
+---
+
+## 🤖 Generate an image of people...
+**Category:** `General / AI Persona`
+
+> Generate an image of people sunbathing on a sunny beach. Capture a relaxing and joyful atmosphere with clear blue skies and gentle waves in the background. Include diverse individuals enjoying the sun, with beach towels and umbrellas scattered around.
 
 ---
 
