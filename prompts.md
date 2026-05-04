@@ -574,6 +574,7 @@
 - [💼 Act as: Excel formula generator](#act-as-excel-formula-generator)
 - [💼 # **🔥 Universal Lead &...](#-universal-lead-)
 - [🤖 a transparent crystal portal floating...](#a-transparent-crystal-portal-floating-)
+- [🤖 Create a set of frequently...](#create-a-set-of-frequently-)
 
 ---
 
@@ -12149,6 +12150,15 @@
 **Category:** `General / AI Persona`
 
 > a transparent crystal portal floating in the middle of clouds in the sky, with a ${subject}, sitting inside meditating with golden lights coming up from all their chakras, 2 other light beams are traversing their body one from top to bottom and 2 diagonally
+
+---
+
+## 🤖 Create a set of frequently...
+**Category:** `General / AI Persona`
+
+> Create a set of frequently asked questions and answers for the ${Product/Service/Project/Company/Industry Description} to help users better understand the offerings. Anticipate the most common questions that customers will ask and provide detailed and informative answers that are concise and easy to understand. Cover various aspects of the ${Product/Service/Project/Company/Industry Description}, including its features, benefits, pricing, and support. Use simple language and avoid technical jargon as much as possible. Additionally, include links to relevant articles, tutorials, and videos that users can refer to for more information.
+> 
+> Make sure the content is generated in ${language}
 
 ---
 
