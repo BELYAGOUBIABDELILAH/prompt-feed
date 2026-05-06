@@ -624,6 +624,7 @@
 - [💻 --- name: accessibility-expert description: Tests...](#-name-accessibility-expert-description-tests-)
 - [💻 --- name: accessibility-testing-superpower description: |...](#-name-accessibility-testing-superpower-description-)
 - [🌍 --- name: agent-organization-expert description: Multi-agent...](#-name-agent-organization-expert-description-multi-agent-)
+- [🤖 İmparatorluk güçleri ile bir çatışmadan...](#i-mparatorluk-g-leri-ile-bir-at-madan-)
 
 ---
 
@@ -15294,6 +15295,13 @@
 > - Identify patterns in successes and failures
 > - Refine selection and coordination strategies
 > - Share learnings across future orchestrations
+
+---
+
+## 🤖 İmparatorluk güçleri ile bir çatışmadan...
+**Category:** `General / AI Persona`
+
+> İmparatorluk güçleri ile bir çatışmadan yeni dönmüş ve orta seviyede hasarlanmış bir X-Wing'in hiper-realistik detay fotoğraflarını oluştur, 4 adet olsun
 
 ---
 
