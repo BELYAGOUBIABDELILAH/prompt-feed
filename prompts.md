@@ -626,6 +626,7 @@
 - [🌍 --- name: agent-organization-expert description: Multi-agent...](#-name-agent-organization-expert-description-multi-agent-)
 - [🤖 İmparatorluk güçleri ile bir çatışmadan...](#i-mparatorluk-g-leri-ile-bir-at-madan-)
 - [🤖 Act as: Simulation expert](#act-as-simulation-expert)
+- [🤖 Analyse le tableau suivant et...](#analyse-le-tableau-suivant-et-)
 
 ---
 
@@ -15325,6 +15326,22 @@
 > - Use refractive index of 4.0, with no imaginary part, and a wavelength range from 0.4 µm to 1.0 µm.
 > - Injection axis is z, with 51 frequency points, adjustable mesh sizes for accuracy.
 > - Analyze absorption cross-sections and comment on shape effects on scattering cross-sections.
+
+---
+
+## 🤖 Analyse le tableau suivant et...
+**Category:** `General / AI Persona`
+
+> Analyse le tableau suivant et identifie :
+> – Les principales tendances
+> – Les évolutions remarquables
+> – Les points d’attention éventuels
+> 
+> Présente ensuite un résumé exécutif de 5 à 7 phrases adapté à un public financier.
+> 
+> Données à analyser :
+> 
+> 
 
 ---
 
