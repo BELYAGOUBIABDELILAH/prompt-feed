@@ -627,6 +627,7 @@
 - [🤖 İmparatorluk güçleri ile bir çatışmadan...](#i-mparatorluk-g-leri-ile-bir-at-madan-)
 - [🤖 Act as: Simulation expert](#act-as-simulation-expert)
 - [🤖 Analyse le tableau suivant et...](#analyse-le-tableau-suivant-et-)
+- [🤖 Vérifie le texte suivant selon...](#v-rifie-le-texte-suivant-selon-)
 
 ---
 
@@ -15342,6 +15343,20 @@
 > Données à analyser :
 > 
 > 
+
+---
+
+## 🤖 Vérifie le texte suivant selon...
+**Category:** `General / AI Persona`
+
+> Vérifie le texte suivant selon trois critères : neutralité, précision, et conformité à un ton réglementaire bancaire.
+> Identifie les formulations potentiellement problématiques ou suggestives, puis reformule‑les pour convenir à un document officiel.
+> 
+> Texte à analyser :
+> ${texte a analyser}
+> 
+> Présente ta réponse sous deux colonnes :
+> – Texte original / Texte reformulé
 
 ---
 
