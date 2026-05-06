@@ -602,6 +602,7 @@
 - [💻 { "opening": "${bibleVerse}", "criticalIntelligence": [...](#-opening-bibleverse-criticalintelligence-)
 - [🤖 Act as: Versatile design mockup software](#act-as-versatile-design-mockup-software)
 - [🤖 A vintage patent document for...](#a-vintage-patent-document-for-)
+- [🤖 # My Skill Describe what...](#-my-skill-describe-what-)
 
 ---
 
@@ -13142,6 +13143,20 @@
 **Category:** `General / AI Persona`
 
 > A vintage patent document for ${invention}, styled after late 1800s United States Patent Office filings. The page features precise technical drawings with numbered callouts (Fig. 1, Fig. 2, Fig. 3) showing front, side, and exploded views. Handwritten annotations in fountain-pen ink describe mechanisms. The paper is aged ivory with foxing stains and soft fold creases. An official embossed seal and red wax stamp appear in the corner. A hand-signed inventor's name and date appear at the bottom. The entire image feels like a recovered archival document—authoritative, historic, and slightly mysterious.
+
+---
+
+## 🤖 # My Skill Describe what...
+**Category:** `General / AI Persona`
+
+> # My Skill
+> 
+> Describe what this skill does and how the agent should use it.
+> 
+> ## Instructions
+> ${${variable}}
+> - Step 1: ...قم بعمل صوره للامام محمد بن سعود ال سعود يبدو عليها الفخر والاعتزاز 
+> - Step 2: ...قم بوضع العلم والتاريخ ومعالم من السعوديه 
 
 ---
 
