@@ -634,6 +634,7 @@
 - [✍️ Act as: Network fault report specialist](#act-as-network-fault-report-specialist)
 - [✍️ Act as: Personalized gpt assistant](#act-as-personalized-gpt-assistant)
 - [💻 Act as: Web developer](#act-as-web-developer)
+- [💼 Rédige un texte marketing clair,...](#r-dige-un-texte-marketing-clair-)
 
 ---
 
@@ -15493,6 +15494,25 @@
 > - Maintain a clean and minimalistic design.
 > - Ensure cross-browser compatibility.
 > - Optimize for performance and fast loading times.
+
+---
+
+## 💼 Rédige un texte marketing clair,...
+**Category:** `Business & Work`
+
+> Rédige un texte marketing clair, professionnel et éthique pour promouvoir ${nom_du_produit_financier}.
+> 
+> Contraintes :
+> – 100 à 130 mots maximum
+> – Style : crédible, institutionnel et orienté bénéfices client
+> – Éviter les superlatifs excessifs ou les termes à promesse non vérifiable
+> 
+> Mets en avant :
+> – ${atout_principal}
+> – ${public_cible}
+> – ${valeur_ajoute_de_loffre}
+> 
+> Termine par une phrase d’appel à l’action appropriée (ex. invitation à contacter un conseiller).
 
 ---
 
