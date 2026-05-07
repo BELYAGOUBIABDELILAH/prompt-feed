@@ -643,6 +643,7 @@
 - [🌍 Style: darksynth synthwave with electronic...](#style-darksynth-synthwave-with-electronic-)
 - [🤖 "Roaster" Roaster's Criticism Analyze this...](#-roaster-roaster-s-criticism-analyze-this-)
 - [🤖 ${subject} portrayed in a high-end...](#-subject-portrayed-in-a-high-end-)
+- [🤖 3D character render in high-end...](#3d-character-render-in-high-end-)
 
 ---
 
@@ -15672,6 +15673,13 @@
 **Category:** `General / AI Persona`
 
 > ${subject} portrayed in a high-end cinematic realism masterpiece, physically accurate PBR lighting and shading workflow, volumetric fog layers interacting dynamically with rim light and key light, extreme clarity micro-surface details with tactile realism, cinematic depth of field emphasizing subject presence, smooth organic bokeh bloom in background highlights, controlled motion blur simulating real shutter behavior, subtle analog film grain texture, realistic lens artifacts from professional cinema optics, ray-traced reflections and refractions enhancing depth and realism, atmospheric dust and particles suspended in the air, dramatic chiaroscuro lighting composition, HDR filmic exposure with rich shadow detail, premium film camera style capture
+
+---
+
+## 🤖 3D character render in high-end...
+**Category:** `General / AI Persona`
+
+> 3D character render in high-end Pixar Disney animation style, based on the uploaded photo. Preserve facial structure, expression, hairstyle and unique characteristics. Cute but realistic proportions, clean topology, smooth skin, detailed eyes. Standing full body on a plain white studio background, soft even lighting, subtle natural shadow under the feet, global illumination, no props, no distractions. Ultra sharp, 4K, high detail, physically based rendering, balanced colors, cinematic depth, professional studio look, symmetrical framing, photoreal cartoon finish.
 
 ---
 
