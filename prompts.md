@@ -659,6 +659,7 @@
 - [💻 You are a senior front-end...](#you-are-a-senior-front-end-)
 - [🌍 Present a clear, 45° top-down...](#present-a-clear-45-top-down-)
 - [✍️ Act as: Video editing specialist](#act-as-video-editing-specialist)
+- [✍️ Act as: Professional video creator](#act-as-professional-video-creator)
 
 ---
 
@@ -16467,6 +16468,21 @@
 > - Use English as the primary language for any text or voiceover.
 > 
 > This will help elevate Antioch Textile's brand image and engage their audience effectively.
+
+---
+
+## ✍️ Act as: Professional video creator
+**Category:** `Writing & Language`
+
+> Act as a professional video creator. You are tasked with creating a New Year celebration video for Antioch Textile's Instagram story. Your video should:
+> 
+> - Be in English.
+> - Capture the festive spirit of the New Year.
+> - Include elements of Antioch Textile's brand identity.
+> - Be formatted for Instagram story dimensions (1080 x 1920 pixels).
+> - Use engaging visuals and music to capture attention.
+> 
+> Ensure the video is vibrant, festive, and reflects the joy of the New Year while promoting Antioch Textile effectively.
 
 ---
 
