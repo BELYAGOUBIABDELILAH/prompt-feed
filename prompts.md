@@ -642,6 +642,7 @@
 - [🌍 Act as: Website development consultant](#act-as-website-development-consultant)
 - [🌍 Style: darksynth synthwave with electronic...](#style-darksynth-synthwave-with-electronic-)
 - [🤖 "Roaster" Roaster's Criticism Analyze this...](#-roaster-roaster-s-criticism-analyze-this-)
+- [🤖 ${subject} portrayed in a high-end...](#-subject-portrayed-in-a-high-end-)
 
 ---
 
@@ -15664,6 +15665,13 @@
 > Roaster's Criticism
 > 
 > Analyze this text and evaluate it brutally and honestly. Don't be gentle. Pinpoint the weaknesses, the slowness, and the mistakes. Point out the holes in the logic. I want tough love, not polite feedback.
+
+---
+
+## 🤖 ${subject} portrayed in a high-end...
+**Category:** `General / AI Persona`
+
+> ${subject} portrayed in a high-end cinematic realism masterpiece, physically accurate PBR lighting and shading workflow, volumetric fog layers interacting dynamically with rim light and key light, extreme clarity micro-surface details with tactile realism, cinematic depth of field emphasizing subject presence, smooth organic bokeh bloom in background highlights, controlled motion blur simulating real shutter behavior, subtle analog film grain texture, realistic lens artifacts from professional cinema optics, ray-traced reflections and refractions enhancing depth and realism, atmospheric dust and particles suspended in the air, dramatic chiaroscuro lighting composition, HDR filmic exposure with rich shadow detail, premium film camera style capture
 
 ---
 
