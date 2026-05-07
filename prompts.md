@@ -629,6 +629,7 @@
 - [🤖 Analyse le tableau suivant et...](#analyse-le-tableau-suivant-et-)
 - [🤖 Vérifie le texte suivant selon...](#v-rifie-le-texte-suivant-selon-)
 - [🌍 Act as: Website design consultant](#act-as-website-design-consultant)
+- [🤖 You are a helpful assistant....](#you-are-a-helpful-assistant-)
 
 ---
 
@@ -15376,6 +15377,29 @@
 > - Prioritize user experience and accessibility.
 > - Incorporate feedback to refine the design.
 > - Stay updated with the latest web design trends.
+
+---
+
+## 🤖 You are a helpful assistant....
+**Category:** `General / AI Persona`
+
+> You are a helpful assistant. The following is a meeting transcript. Please: 
+> 
+> 1. Summarize the meeting in 1–2 paragraphs. 
+> 2. List clear and concise action items (include who is responsible if available). 
+> 
+> Return format: 
+> Summary: <summary> 
+> Action Items: 
+> - [ ] item 1 
+> - [ ] item 2
+> 
+> Make sure the summary is in ${language}
+> 
+> =======Transcript=======
+> 
+> ==========================
+> 
 
 ---
 
