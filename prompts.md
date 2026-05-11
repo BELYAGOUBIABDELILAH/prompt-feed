@@ -681,6 +681,7 @@
 - [🤖 { "category": "COZY_COUCH_LAMP_CLOSEUP", "subject": {...](#-category-cozy-couch-lamp-closeup-subject-)
 - [🤖 { "category": "PLANTS_BOUQUET_WARM_LAMP", "subject": {...](#-category-plants-bouquet-warm-lamp-subject-)
 - [🌍 { "category": "AIRPORT_CORRIDOR_FULLBODY", "subject": {...](#-category-airport-corridor-fullbody-subject-)
+- [🌍 { "category": "MUSEUM_STEPS_FULLBODY", "subject": {...](#-category-museum-steps-fullbody-subject-)
 
 ---
 
@@ -17931,6 +17932,86 @@
 >   "negative_prompt": [
 >     "readable signage", "logos",
 >     "extra limbs", "warped suitcase",
+>     "plastic skin", "cgi"
+>   ]
+> }
+
+---
+
+## 🌍 { "category": "MUSEUM_STEPS_FULLBODY", "subject": {...
+**Category:** `Travel & Lifestyle`
+
+> {
+>   "category": "MUSEUM_STEPS_FULLBODY",
+>   "subject": {
+>     "demographics": "Adult woman, 21-27, Turkish-looking, artsy vibe.",
+>     "hair": {
+>       "color": "Dark brown",
+>       "style": "Loose waves, tucked behind one ear",
+>       "texture": "Natural strands, slight flyaways"
+>     },
+>     "face": {
+>       "eyes": "Thoughtful, warm",
+>       "skin_details": "Natural texture, no smoothing"
+>     },
+>     "clothing": {
+>       "outfit": "Minimal chic black outfit + light coat (no logos)",
+>       "fabric": "Textile weave visible"
+>     },
+>     "accessories": {
+>       "jewelry": ["Silver hoops"]
+>     }
+>   },
+>   "pose": {
+>     "type": "Seated full-body",
+>     "orientation": "Sitting on steps, ankles crossed",
+>     "hands": "One hand resting on knee, other near chin",
+>     "gaze": "Soft eye contact, calm",
+>     "posture": "Relaxed, composed"
+>   },
+>   "setting": {
+>     "environment": "Museum exterior steps",
+>     "background_elements": [
+>       "Stone texture with realistic pores and wear",
+>       "Soft daylight",
+>       "No readable plaques/signage"
+>     ],
+>     "depth": "Subject sharp, background softly blurred"
+>   },
+>   "camera": {
+>     "shot_type": "Full-body portrait",
+>     "angle": "Slightly low angle for elegance",
+>     "focal_length_equivalent": "35-50mm editorial",
+>     "framing": "4:5",
+>     "focus": "Face + hands sharp, background soft"
+>   },
+>   "lighting": {
+>     "source": "Natural daylight",
+>     "direction": "Soft front-side",
+>     "shadows": "Gentle, realistic"
+>   },
+>   "mood_and_expression": {
+>     "tone": "Artsy, calm, confident",
+>     "expression": "Subtle smile, thoughtful eyes"
+>   },
+>   "style_and_realism": {
+>     "style": "Photoreal editorial lifestyle",
+>     "imperfections": "Natural hair flyaways preserved"
+>   },
+>   "technical_details": {
+>     "aspect_ratio": "4:5",
+>     "noise": "Very mild",
+>     "sharpness": "Crisp facial detail"
+>   },
+>   "constraints": {
+>     "adult_only": true,
+>     "no_text": true,
+>     "no_logos": true,
+>     "no_watermarks": true
+>   },
+>   "negative_prompt": [
+>     "readable text", "logos", "watermark",
+>     "extra fingers", "warped steps",
 >     "plastic skin", "cgi"
 >   ]
 > }
