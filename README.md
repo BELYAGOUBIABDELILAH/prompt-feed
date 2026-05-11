@@ -5,7 +5,7 @@
 
 Welcome to the **Daily Prompt Drop**! This repository is your ultimate, constantly updating collection of high-quality prompts engineered for Large Language Models like ChatGPT, Claude, and Gemini.
 
-> **The Goal:** A daily-refreshed, meticulously categorized library of prompts designed to help you get the absolute best out of AI.
+> **The Goal:** A daily-refreshed, meticulously categorized library of prompts designed to help you get the absolute best out of AI .
 
 ---
 
