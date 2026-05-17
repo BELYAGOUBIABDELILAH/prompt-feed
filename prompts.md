@@ -721,6 +721,7 @@
 - [🌍 Act as: Software project manager](#act-as-software-project-manager)
 - [🤖 Act as: Storyboard artist](#act-as-storyboard-artist)
 - [🤖 Act as: University web designer](#act-as-university-web-designer)
+- [🌍 ​${current_weather} in a gravity-defying ${city_name}....](#-current-weather-in-a-gravity-defying-city-name-)
 
 ---
 
@@ -21684,6 +21685,13 @@
 > Variables:
 > - ${universityName} - Name of the university
 > - ${additionalSections} - Additional sections as required
+
+---
+
+## 🌍 ​${current_weather} in a gravity-defying ${city_name}....
+**Category:** `Travel & Lifestyle`
+
+> ​${current_weather} in a gravity-defying ${city_name}. The asphalt street curves seamlessly upwards, physically bending 90 degrees to become a vertical wall, then arching directly overhead. Not a reflection, but a solid continuous loop of architecture. Iconic buildings and roads protrude perpendicularly from the curved surface all around. ${city_name}'s landmarks hang upside down above. Realistic lighting matching the weather, vivid details, photorealistic 8k.
 
 ---
 
