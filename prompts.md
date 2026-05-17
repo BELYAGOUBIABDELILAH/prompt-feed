@@ -707,6 +707,7 @@
 - [🌍 { "colors": { "color_temperature": "cool",...](#-colors-color-temperature-cool-)
 - [💻 # Prompt: PlainTalk Style Guide...](#-prompt-plaintalk-style-guide-)
 - [🤖 { "subject_and_scene": { "main_subject": "A...](#-subject-and-scene-main-subject-a-)
+- [🤖 A Fallen Angel Seraphim on...](#a-fallen-angel-seraphim-on-)
 
 ---
 
@@ -20173,6 +20174,13 @@
 >   },
 >   "directorial_style": "Denis Villeneuve (Atmospheric haze and overwhelming silence) mixed with Mel Gibson (Gritty, visceral realism of war)"
 > }
+
+---
+
+## 🤖 A Fallen Angel Seraphim on...
+**Category:** `General / AI Persona`
+
+> A Fallen Angel Seraphim on a glitching throne, blending angelic and cyberpunk elements in a dark, surreal style.
 
 ---
 
