@@ -729,6 +729,7 @@
 - [🌍 { "environment": { "type": "outdoor",...](#-environment-type-outdoor-)
 - [🤖 Act as: Study review companion](#act-as-study-review-companion)
 - [🌍 { "colors": { "color_temperature": "warm",...](#-colors-color-temperature-warm-)
+- [🤖 Extreme close-up macro photograph of...](#extreme-close-up-macro-photograph-of-)
 
 ---
 
@@ -22440,6 +22441,13 @@
 >   "uuid": "c0e1b01c-e07e-41b1-b035-f8802d8ec319"
 > }
 > 
+
+---
+
+## 🤖 Extreme close-up macro photograph of...
+**Category:** `General / AI Persona`
+
+> Extreme close-up macro photograph of a young woman’s face during golden hour. Warm natural sunlight coming from the side creates glowing highlights on dewy, freckled skin. The right hazel eye is in sharp focus, reflecting light with high clarity. Shallow depth of field isolates the eye, skin texture, nose and lips while the background completely melts away. Skin texture is highly detailed and realistic, pores and freckles visible, no heavy retouching. Color palette dominated by warm bronze, tan, gold and soft brown tones. Calm, intimate, sun-kissed mood. Cinematic beauty photography, hyperrealistic, natural look, high detail.
 
 ---
 
