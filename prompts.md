@@ -708,6 +708,7 @@
 - [💻 # Prompt: PlainTalk Style Guide...](#-prompt-plaintalk-style-guide-)
 - [🤖 { "subject_and_scene": { "main_subject": "A...](#-subject-and-scene-main-subject-a-)
 - [🤖 A Fallen Angel Seraphim on...](#a-fallen-angel-seraphim-on-)
+- [🤖 Retro-futuristic 1970s sci-fi cinema look,...](#retro-futuristic-1970s-sci-fi-cinema-look-)
 
 ---
 
@@ -20181,6 +20182,13 @@
 **Category:** `General / AI Persona`
 
 > A Fallen Angel Seraphim on a glitching throne, blending angelic and cyberpunk elements in a dark, surreal style.
+
+---
+
+## 🤖 Retro-futuristic 1970s sci-fi cinema look,...
+**Category:** `General / AI Persona`
+
+> Retro-futuristic 1970s sci-fi cinema look, shot on 35mm film. Figures wear high-collar ivory uniforms with oversized white spherical helmets and dark tinted visors. Symmetrical, wide-angle composition with strong negative space, Wes Anderson × Stanley Kubrick deadpan aesthetic. Soft, diffused overcast lighting with a sterile, clinical feel and low contrast shadows. Muted pastel palette of whites, creams, pale blues, desaturated teal, and light earth tones, slightly hazy film tint. Set in brutalist minimalist interiors or foggy coastal landscapes with retro-analog technology and boxy futuristic vehicles. Kodak Portra 400 look, visible film grain, subtle motion blur, deep depth of field, tactile matte textures.
 
 ---
 
