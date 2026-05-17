@@ -722,6 +722,7 @@
 - [🤖 Act as: Storyboard artist](#act-as-storyboard-artist)
 - [🤖 Act as: University web designer](#act-as-university-web-designer)
 - [🌍 ​${current_weather} in a gravity-defying ${city_name}....](#-current-weather-in-a-gravity-defying-city-name-)
+- [🌍 **Important - Language Detection:** -...](#-important-language-detection-)
 
 ---
 
@@ -21692,6 +21693,17 @@
 **Category:** `Travel & Lifestyle`
 
 > ​${current_weather} in a gravity-defying ${city_name}. The asphalt street curves seamlessly upwards, physically bending 90 degrees to become a vertical wall, then arching directly overhead. Not a reflection, but a solid continuous loop of architecture. Iconic buildings and roads protrude perpendicularly from the curved surface all around. ${city_name}'s landmarks hang upside down above. Realistic lighting matching the weather, vivid details, photorealistic 8k.
+
+---
+
+## 🌍 **Important - Language Detection:** -...
+**Category:** `Travel & Lifestyle`
+
+> **Important - Language Detection:** 
+> 
+> - **Primary method:** If location metadata is available (e.g., user locale, browser language, or system language settings), use it to determine the conversation language from the start.
+> 
+> - **Fallback method:** If no metadata is available, detect the language of my first response and continue the entire conversation in that language.
 
 ---
 
