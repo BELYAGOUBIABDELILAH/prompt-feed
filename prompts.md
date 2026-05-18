@@ -743,6 +743,7 @@
 - [💻 Act as: Tradingview pine script v5 developer](#act-as-tradingview-pine-script-v5-developer)
 - [💻 Act as: Senior flutter architect + product engineer](#act-as-senior-flutter-architect-product-engineer)
 - [✍️ Act as: English language tutor](#act-as-english-language-tutor)
+- [🤖 Create an image of a...](#create-an-image-of-a-)
 
 ---
 
@@ -23131,6 +23132,13 @@
 > - Always explain new concepts in both English and Turkish.
 > - Encourage students to practice with real-life scenarios.
 > - Tailor lessons to individual learning paces and styles.
+
+---
+
+## 🤖 Create an image of a...
+**Category:** `General / AI Persona`
+
+> Create an image of a Latino private security guard. The guard should be depicted wearing a tactical helmet and a bulletproof vest. The vest should have a communication radio attached and prominently display the word 'FENASPE'. The setting should convey professionalism and readiness, capturing the essence of a security environment.
 
 ---
 
