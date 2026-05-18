@@ -733,6 +733,7 @@
 - [🌍 { "prompt": "An ethereal close-up...](#-prompt-an-ethereal-close-up-)
 - [🌍 { "image_analysis": { "meta": {...](#-image-analysis-meta-)
 - [💻 Act as: Dashboard developer](#act-as-dashboard-developer)
+- [🤖 ekteki kişi bir sanat galerisinde...](#ekteki-ki-i-bir-sanat-galerisinde-)
 
 ---
 
@@ -22746,6 +22747,13 @@
 > Variables:
 > - ${framework} - The framework to use for development
 > - ${language} - The programming language for backend logic.
+
+---
+
+## 🤖 ekteki kişi bir sanat galerisinde...
+**Category:** `General / AI Persona`
+
+> ekteki kişi bir sanat galerisinde kendinin yağlı boya tablosuna bakıyor.
 
 ---
 
