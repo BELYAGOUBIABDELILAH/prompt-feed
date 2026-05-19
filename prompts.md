@@ -784,6 +784,7 @@
 - [💻 --- name: create-plan description: Create...](#-name-create-plan-description-create-)
 - [🤖 Act as: Text summarizer](#act-as-text-summarizer)
 - [🤖 Act as: Course assignment grader](#act-as-course-assignment-grader)
+- [🤖 Experimental downtempo, complex breakbeat influenced...](#experimental-downtempo-complex-breakbeat-influenced-)
 
 ---
 
@@ -24596,6 +24597,13 @@
 > - Include clear, specific criteria for each part of the assignment.
 > - Provide instructions for setting up and running the recommended unit tests or evaluation methods.
 > - Ensure the grading process is fair and consistent.
+
+---
+
+## 🤖 Experimental downtempo, complex breakbeat influenced...
+**Category:** `General / AI Persona`
+
+> Experimental downtempo, complex breakbeat influenced by jazz, glitchy foley percussion, staccato cello stabs, soaring violin textures, sub-bass movements, vinyl crackle, and ambient nature sounds, cinematic build-up, rich textures, sophisticated arrangement, 100 BPM, ethereal yet driving
 
 ---
 
