@@ -770,6 +770,7 @@
 - [🤖 Ultra-realistic amateur street photo of...](#ultra-realistic-amateur-street-photo-of-)
 - [🤖 Ultra-realistic amateur street photo of...](#ultra-realistic-amateur-street-photo-of-)
 - [🤖 ultra realistic amateur photo of...](#ultra-realistic-amateur-photo-of-)
+- [🤖 ultra realistic photo of a...](#ultra-realistic-photo-of-a-)
 
 ---
 
@@ -24046,6 +24047,13 @@
 > around her: cracked concrete, graffiti on the wall in Turkish, old blue plastic crate, random trash bags, peeling paint, rust stains, everything looks like a typical older Turkish apartment block back yard
 > 
 > shot on a regular iPhone by a friend standing close, handheld, slightly downward angle, horizon not perfectly straight, automatic exposure, no studio lighting, overcast daylight making soft but flat light, a bit of digital noise in darker corners, focus not perfectly sharp on her eyes, everyday Instagram photo quality, unedited colors, casual sexy vibe in a real Turkish street environment, clearly not a professional camera
+
+---
+
+## 🤖 ultra realistic photo of a...
+**Category:** `General / AI Persona`
+
+> ultra realistic photo of a 25-year-old woman taking a full-body mirror selfie in a cozy bedroom, oversized hoodie and biker shorts, messy bed, warm afternoon window light, shot on a regular iPhone in one hand, casual handheld photo, automatic exposure, slight digital noise, imperfect framing, no studio lighting, everyday amateur Instagram style, natural skin texture, a bit of lens smudge, unedited colors
 
 ---
 
