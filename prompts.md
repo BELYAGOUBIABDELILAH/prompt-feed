@@ -774,6 +774,7 @@
 - [🤖 ultra realistic candid photo of...](#ultra-realistic-candid-photo-of-)
 - [🤖 “Mirror-selfie scene in a modern...](#-mirror-selfie-scene-in-a-modern-)
 - [🤖 A woman in her late...](#a-woman-in-her-late-)
+- [🤖 instagirl, mirror selfie in a...](#instagirl-mirror-selfie-in-a-)
 
 ---
 
@@ -24103,6 +24104,13 @@
 > A woman in her late 20s sits on the floor beside a spinning record player, bathed in magenta and teal light. She wears a silky slip dress and her bare legs are curled. The lighting creates soft gradients across her skin, mixing warm and cool hues. A few records are scattered on the carpet.
 > 
 > Shot on a Pentax Spotmatic with a 50mm Super-Takumar lens at f/1.4, the frame is rich with bold contrasts and textured grain. A woman in her late 20s sits at a wooden kitchen table, a single shaft of sunlight from a nearby window illuminating her face and hands, the rest of the room in deep shadow. She wears a thin-strapped slip, her hair loose and softly disheveled. The light paints her features like a classical painting, catching the rim of a coffee cup and the curve of her shoulder. Behind her, the darkened room feels almost stage-like.
+
+---
+
+## 🤖 instagirl, mirror selfie in a...
+**Category:** `General / AI Persona`
+
+> instagirl, mirror selfie in a hallway, realistic amateur phone snapshot, natural skin texture, minimal makeup, mild lens distortion from phone camera, casual posture, everyday outfit, slight handheld micro-blur, iPhone 11 wide 26mm EXIF feel, imperfect framing (a little headroom cut), mixed indoor lighting with slight color cast, background clutter present, no retouching, no beauty filter, faithful anatomy, same person identity, same body proportions, match reference face closely, iphone 11 pro max,
 
 ---
 
