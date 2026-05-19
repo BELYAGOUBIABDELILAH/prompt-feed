@@ -777,6 +777,7 @@
 - [🤖 instagirl, mirror selfie in a...](#instagirl-mirror-selfie-in-a-)
 - [🤖 { "prompt": "instagirl, candid phone...](#-prompt-instagirl-candid-phone-)
 - [💻 Act as: Bug discovery code assistant](#act-as-bug-discovery-code-assistant)
+- [💻 Your task to create a...](#your-task-to-create-a-)
 
 ---
 
@@ -24160,6 +24161,13 @@
 > - Focus on both performance and security aspects
 > - Provide clear, concise feedback
 > - Use variable placeholders (e.g., ${code}) to make the prompt reusable
+
+---
+
+## 💻 Your task to create a...
+**Category:** `Coding & Tech`
+
+> Your task to create a manim code that will explain the chain rule in easy way
 
 ---
 
