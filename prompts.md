@@ -769,6 +769,7 @@
 - [🤖 Ultra-realistic amateur street photo of...](#ultra-realistic-amateur-street-photo-of-)
 - [🤖 Ultra-realistic amateur street photo of...](#ultra-realistic-amateur-street-photo-of-)
 - [🤖 Ultra-realistic amateur street photo of...](#ultra-realistic-amateur-street-photo-of-)
+- [🤖 ultra realistic amateur photo of...](#ultra-realistic-amateur-photo-of-)
 
 ---
 
@@ -24032,6 +24033,19 @@
 > In the background, a distant Migros supermarket sign, a tiny Şok side market, and a Turkcell shop with its blue logo partly visible. Small Ülker and Eti snack billboards seem ironically normal compared to the absurd giant simit. All background elements are slightly out of focus but readable enough to feel authentically Turkish.
 > Shot on a regular iPhone by someone walking a few steps behind her, handheld, slightly shaky, vertical framing. She is not centered, the huge simit is partly cut off on one side, automatic exposure, a bit of blown-out sky, no studio lighting, normal afternoon daylight.
 > Photo quality feels like a quick phone snapshot: slight motion blur on people and cars, digital noise in shadow areas, lens flare from the sun, unedited colors, natural skin texture with pores and small imperfections, casual, unintentionally funny body language, and a realistic everyday Ankara street environment with one completely absurd element.
+
+---
+
+## 🤖 ultra realistic amateur photo of...
+**Category:** `General / AI Persona`
+
+> ultra realistic amateur photo of a 28-year-old Turkish woman in a rundown Turkish neighborhood back alley, soft chubby curvy body, blonde dyed hair, light skin with warm undertone, deep neckline top under an unzipped casual hoodie, patterned sweatpants, sneakers slightly dirty from the street
+> 
+> she is squatting next to a small metal cage with chickens in it, feeding them with pieces of bread on the ground, looking up at the camera with a tired but sexy confident expression, hair slightly messy, real-life body language, not a clean model pose
+> 
+> around her: cracked concrete, graffiti on the wall in Turkish, old blue plastic crate, random trash bags, peeling paint, rust stains, everything looks like a typical older Turkish apartment block back yard
+> 
+> shot on a regular iPhone by a friend standing close, handheld, slightly downward angle, horizon not perfectly straight, automatic exposure, no studio lighting, overcast daylight making soft but flat light, a bit of digital noise in darker corners, focus not perfectly sharp on her eyes, everyday Instagram photo quality, unedited colors, casual sexy vibe in a real Turkish street environment, clearly not a professional camera
 
 ---
 
