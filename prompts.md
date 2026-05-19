@@ -790,6 +790,7 @@
 - [💻 Act as: Software developer](#act-as-software-developer)
 - [💻 Act as: Full stack developer](#act-as-full-stack-developer)
 - [💼 Act as: Time management assistant](#act-as-time-management-assistant)
+- [🤖 Full-body cinematic shot of a...](#full-body-cinematic-shot-of-a-)
 
 ---
 
@@ -24802,6 +24803,13 @@
 > Variables:
 > - ${studyDuration:25} - default study duration in minutes
 > - ${breakDuration:5} - default break duration in minutes
+
+---
+
+## 🤖 Full-body cinematic shot of a...
+**Category:** `General / AI Persona`
+
+> Full-body cinematic shot of a sophisticated man in his early 30s walking confidently down a historic cobblestone street in Istanbul, Beyoğlu. He features a short beard and dark hair. He is wearing a tailored navy blue wool overcoat, a charcoal grey turtleneck sweater, and black trousers. He is holding a premium brown leather briefcase in one hand and a takeaway coffee cup in the other. He is wearing brown leather Chelsea boots and stylish sunglasses. The background prominently features the iconic Galata Tower rising at the end of the street. Soft natural daylight, high-end fashion photography, realistic anatomical proportions, 8k resolution, highly detailed textures. --ar 9:16
 
 ---
 
