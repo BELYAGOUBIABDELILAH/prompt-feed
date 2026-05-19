@@ -839,6 +839,7 @@
 - [🤖 Act as: Base llm model](#act-as-base-llm-model)
 - [🤖 Act as: Ftth telecommunications expert](#act-as-ftth-telecommunications-expert)
 - [🤖 <instruction> Analyze the entire composition...](#-instruction-analyze-the-entire-composition-)
+- [🤖 { "fixed_prompt_components": { "composition": "Wide...](#-fixed-prompt-components-composition-wide-)
 
 ---
 
@@ -26473,6 +26474,28 @@
 > **Middle Row:** Waist-up view, Chest-up view, Face/Front close-up.
 > **Bottom Row:** Macro detail, Low Angle, High Angle.
 > All frames feature photorealistic textures, consistent cinematic color grading, and correct framing for the specific number of subjects or objects analyzed.
+
+---
+
+## 🤖 { "fixed_prompt_components": { "composition": "Wide...
+**Category:** `General / AI Persona`
+
+> {
+>   "fixed_prompt_components": {
+>     "composition": "Wide angle full body shot, the entire figure is visible from head to toe, far shot, vertical portrait framing, centered and symmetrical stance",
+>     "background": "Isolated on a seamless pure white background, studio backdrop, clean white environment",
+>     "art_style": "Photorealistic 3D medical render, ZBrush digital sculpture style, scientific anatomy model aesthetics",
+>     "texture_and_material": "Monochromatic silver-grey skin with brushed metal texture, micro-surface details, highly detailed muscle striation, matte finish",
+>     "lighting_and_tech": "Cinematic rim lighting, global illumination, raytracing, ambient occlusion, 8k resolution, UHD, sharp focus, hyper-detailed"
+>   },
+>   "variables": {
+>     "gender": "${gender:male}",
+>     "view_angle": "${view_angle:Front view}",
+>     "target_muscle_group": "${target_muscle_group:Pectoralis Major (Chest)}",
+>     "highlight_color": "${highlight_color:glowing cyan blue}"
+>   },
+>   "negative_prompt": "text, infographic, chart, diagram, labels, arrows, UI, cropped image, close-up, macro shot, headshot, cut off feet, cut off head, partial body, grey background, gradient background, shadows on floor, blurry, low resolution, distortion, watermark"
+> }
 
 ---
 
