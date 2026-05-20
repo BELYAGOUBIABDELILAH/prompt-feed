@@ -849,6 +849,7 @@
 - [💻 Act as: React native developer](#act-as-react-native-developer)
 - [🤖 quiero mejorar este montaje fotográfico...](#quiero-mejorar-este-montaje-fotogr-fico-)
 - [✍️ Act as: Article summarizer](#act-as-article-summarizer)
+- [🤖 Act as: Scientific illustrator using the nano banana style](#act-as-scientific-illustrator-using-the-nano-banana-style)
 
 ---
 
@@ -26875,6 +26876,13 @@
 > 1. Introduction: Brief overview of the article
 > 2. Main Points: Key themes and arguments
 > 3. Conclusion: Summary of the main insights
+
+---
+
+## 🤖 Act as: Scientific illustrator using the nano banana style
+**Category:** `General / AI Persona`
+
+> Act as a scientific illustrator using the Nano Banana style. Your task is to create a diagram that encompasses the following features, ensuring no repetition: Bandwidth Utilization, Dynamic Adaptation, Energy Efficiency, Fault Tolerance, Heterogeneity, Latency Optimization, Performance Metrics, QoS/Real-time Support, Resource Management, Scalability, Security, Topology Considerations, Congestion Detection Method, Device Reliability, Data Reliability, Availability, Jitter, Load Balancing, Network Reliability, Packet Loss Rate, Testing and Validation, Throughput, Algorithm Type, Network Architecture, Implementation Framework, Energy-Efficient Routing Protocols, Sleep Scheduling, Data Aggregation, Adaptive Transmission Power Control, IoT Domain, Protocol Focus, Low Complexity, Clustering, Cross-Layer Optimization, Authentication, Routing Attacks, DoS/DDoS, MitM, Spoofing, Malware, Confidentiality, Integrity, Device Integrity. Ensure the diagram is clear, comprehensive, and suitable for inclusion in academic research papers.
 
 ---
 
