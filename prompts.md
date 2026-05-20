@@ -847,6 +847,7 @@
 - [🌍 { "colors": { "color_temperature": "warm",...](#-colors-color-temperature-warm-)
 - [🌍 { "colors": { "color_temperature": "warm",...](#-colors-color-temperature-warm-)
 - [💻 Act as: React native developer](#act-as-react-native-developer)
+- [🤖 quiero mejorar este montaje fotográfico...](#quiero-mejorar-este-montaje-fotogr-fico-)
 
 ---
 
@@ -26843,6 +26844,13 @@
 > - Maintain high performance and fast loading times
 > 
 > Consider using additional libraries and tools specific to React Native to enhance the website's functionality and appearance.
+
+---
+
+## 🤖 quiero mejorar este montaje fotográfico...
+**Category:** `General / AI Persona`
+
+> quiero mejorar este montaje fotográfico para que parezca realista. Me he integrado en el margen izquierdo, pero necesito que se me vea vestido con una chupa de cuero y con el mismo tono, saturación etc que el resto de la imagen
 
 ---
 
