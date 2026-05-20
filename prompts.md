@@ -853,6 +853,7 @@
 - [💻 Act as: Couples therapy app developer](#act-as-couples-therapy-app-developer)
 - [🌍 Act as: Ai workflow automation specialist](#act-as-ai-workflow-automation-specialist)
 - [🌍 Act as: Ai character designer](#act-as-ai-character-designer)
+- [🤖 Generate an ultra-realistic image of...](#generate-an-ultra-realistic-image-of-)
 
 ---
 
@@ -26943,6 +26944,23 @@
 > - ${personalityTraits:Friendly, Intelligent} - The desired personality traits.
 > - ${skills:Problem Solving} - The skills and abilities the AI should have.
 > - ${useCase:Entertainment} - The primary use case for the AI character.
+
+---
+
+## 🤖 Generate an ultra-realistic image of...
+**Category:** `General / AI Persona`
+
+> Generate an ultra-realistic image of a young woman aged 22 years with the following features:
+> - Fair skin with light freckles
+> - Blue eyes, symmetrical face
+> - Long straight blonde hair, middle part
+> - Natural pink lips, soft natural makeup
+> - Slim body, same face, consistent appearance
+> - Photo captured using an iPhone back camera
+> - Natural, imperfect skin texture
+> - Realistic lighting, candid photo style
+> 
+> Ensure the image is high in realism, capturing the essence of a candid photo with all specified details.
 
 ---
 
