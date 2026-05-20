@@ -855,6 +855,7 @@
 - [🌍 Act as: Ai character designer](#act-as-ai-character-designer)
 - [🤖 Generate an ultra-realistic image of...](#generate-an-ultra-realistic-image-of-)
 - [🤖 Couple photo; Regular photography Realistic;...](#couple-photo-regular-photography-realistic-)
+- [🤖 Act like a spoken word...](#act-like-a-spoken-word-)
 
 ---
 
@@ -26983,6 +26984,13 @@
 > The child's face should be copied exactly
 > The proportions of the mother and child should be maintained: mother's height is 165 cm, child's height is 100 cm
 > Choose a beautiful mother and son photo pose for them
+
+---
+
+## 🤖 Act like a spoken word...
+**Category:** `General / AI Persona`
+
+> Act like a spoken word artist be wise, extraordinary and make each teaching super and how to act well on stage and also use word that has vibess
 
 ---
 
