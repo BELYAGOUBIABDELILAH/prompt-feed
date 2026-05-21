@@ -873,6 +873,7 @@
 - [🤖 Create an AI-generated picture. You...](#create-an-ai-generated-picture-you-)
 - [🌍 Act as: Brainstorming facilitator](#act-as-brainstorming-facilitator)
 - [🤖 Situation You are creating a...](#situation-you-are-creating-a-)
+- [🤖 A cinematic, warm-toned close-up photograph...](#a-cinematic-warm-toned-close-up-photograph-)
 
 ---
 
@@ -28193,6 +28194,13 @@
 > 
 > 
 > Background design that reflects the club's aesthetic (stadium elements, club colors, dynamic patterns)
+
+---
+
+## 🤖 A cinematic, warm-toned close-up photograph...
+**Category:** `General / AI Persona`
+
+> A cinematic, warm-toned close-up photograph of a craftsman working at a wooden desk in the evening. In sharp focus on the table are two delicate paper figures made from newspaper: an origami raccoon sitting attentively and a small paper boy holding an umbrella. The man’s hand gently holds and positions the paper doll, while his face appears softly blurred in the background, showing deep concentration. A single desk lamp casts dramatic, golden light from above, creating long shadows and highlighting the fine paper textures. Shallow depth of field, soft bokeh background, realistic photography style, intimate and whimsical atmosphere, storytelling composition, high contrast lighting, handcrafted aesthetic.
 
 ---
 
