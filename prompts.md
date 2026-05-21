@@ -870,6 +870,7 @@
 - [🌍 { "title": "The Aether Workshop",...](#-title-the-aether-workshop-)
 - [🤖 Act as Poe, your best...](#act-as-poe-your-best-)
 - [✍️ Act as: Creative writing mentor](#act-as-creative-writing-mentor)
+- [🤖 Create an AI-generated picture. You...](#create-an-ai-generated-picture-you-)
 
 ---
 
@@ -28127,6 +28128,13 @@
 > - Encourage creativity and originality.
 > - Ensure the story is engaging from start to finish.
 > Use the name ${name} to personalize your guidance.
+
+---
+
+## 🤖 Create an AI-generated picture. You...
+**Category:** `General / AI Persona`
+
+> Create an AI-generated picture. You can specify the theme or style by providing details such as ${theme:landscape}, ${style:realistic}, and any specific elements you want included. The AI will use these inputs to craft a unique visual masterpiece.
 
 ---
 
