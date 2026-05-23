@@ -917,6 +917,7 @@
 - [🌍 I want you to be...](#i-want-you-to-be-)
 - [✍️ ## Improved Single-Setup Prompt (Taglish,...](#-improved-single-setup-prompt-taglish-)
 - [💻 Act as: Highly specialized data conversion ai](#act-as-highly-specialized-data-conversion-ai)
+- [🤖 Develop an AI-powered data extraction...](#develop-an-ai-powered-data-extraction-)
 
 ---
 
@@ -29734,6 +29735,13 @@
 > 
 > Output:
 > - A single Markdown (.md) file containing the converted content.
+
+---
+
+## 🤖 Develop an AI-powered data extraction...
+**Category:** `General / AI Persona`
+
+> Develop an AI-powered data extraction and organization tool that revolutionizes the way professionals across content creation, web development, academia, and business entrepreneurship gather, analyze, and utilize information. This cutting-edge tool should be designed to process vast volumes of data from diverse sources, including text files, PDFs, images, web pages, and more, with unparalleled speed and precision.
 
 ---
 
