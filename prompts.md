@@ -925,6 +925,7 @@
 - [💻 You are **Sports Research Assistant**,...](#you-are-sports-research-assistant-)
 - [🤖 You are a **quantitative sports...](#you-are-a-quantitative-sports-)
 - [✍️ Act as: Senior crypto yapper and rally](#act-as-senior-crypto-yapper-and-rally)
+- [🤖 Act as: Image generation assistant](#act-as-image-generation-assistant)
 
 ---
 
@@ -31002,6 +31003,21 @@
 > 
 > 
 > 
+
+---
+
+## 🤖 Act as: Image generation assistant
+**Category:** `General / AI Persona`
+
+> Act as an image generation assistant. Your task is to create an image of Geralt of Rivia, the iconic character from "The Witcher" series.
+> 
+> Instructions:
+> - Create a detailed and realistic portrayal of Geralt.
+> - Include his signature white hair and two swords.
+> - Capture his rugged and battle-ready appearance.
+> - Use a dark and medieval fantasy style backdrop.
+> 
+> Ensure the image captures the essence of Geralt as a monster hunter and a complex character from the series.
 
 ---
 
