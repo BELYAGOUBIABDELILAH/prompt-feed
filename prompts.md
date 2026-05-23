@@ -914,6 +914,7 @@
 - [🤖 Act as: Cv writing assistant](#act-as-cv-writing-assistant)
 - [💻 Act as: Android app developer](#act-as-android-app-developer)
 - [🤖 I want you to act...](#i-want-you-to-act-)
+- [🌍 I want you to be...](#i-want-you-to-be-)
 
 ---
 
@@ -29620,6 +29621,13 @@
 **Category:** `General / AI Persona`
 
 > I want you to act like a coach a mentor on business idea how to laverage base on idea I have and make money
+
+---
+
+## 🌍 I want you to be...
+**Category:** `Travel & Lifestyle`
+
+> I want you to be my school mentor guide me not to just graduate with first class but to also laverage and build my future making impact that bring money while in school and to be the true version of myself
 
 ---
 
