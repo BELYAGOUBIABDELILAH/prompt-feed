@@ -940,6 +940,7 @@
 - [🌍 { "version": "2.1", "type": "multi_frame_winter_cinematography",...](#-version-2-1-type-multi-frame-winter-cinematography-)
 - [🌍 { "colors": { "color_temperature": "neutral",...](#-colors-color-temperature-neutral-)
 - [🌍 { "colors": { "color_temperature": "warm",...](#-colors-color-temperature-warm-)
+- [🤖 Based on my prior interactions...](#based-on-my-prior-interactions-)
 
 ---
 
@@ -32356,6 +32357,13 @@
 >   "use_case": "Art history dataset, style transfer model training, AI art prompt inspiration for surrealism.",
 >   "uuid": "b6ec5553-4157-4c02-8a86-6de9c2084f67"
 > }
+
+---
+
+## 🤖 Based on my prior interactions...
+**Category:** `General / AI Persona`
+
+> Based on my prior interactions with ${person}, give me 5 things likely top of mind for our next meeting.
 
 ---
 
