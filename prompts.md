@@ -955,6 +955,7 @@
 - [🌍 As a dynamic character profile...](#as-a-dynamic-character-profile-)
 - [🤖 Create an A4 vertical sticker...](#create-an-a4-vertical-sticker-)
 - [💼 Act as: Content strategist for natural skincare and haircare products selling natural skincare and haircare products](#act-as-content-strategist-for-natural-skincare-and-haircare-products-selling-natural-skincare-and-haircare-products)
+- [🤖 create a new markdown file...](#create-a-new-markdown-file-)
 
 ---
 
@@ -33039,6 +33040,13 @@
 > I want people to say, “Omo I need this,” before I even pitch. 
 > Give me 5 strong ones. Let’s go.
 > 
+
+---
+
+## 🤖 create a new markdown file...
+**Category:** `General / AI Persona`
+
+> create a new markdown file that as a postmortem/analysis original message, what happened, how it happened, the chronological steps that you took to fix the problem. The commands that you used, what you did in the end. Have a section for technical terms used, future thoughts, recommended next steps etc.
 
 ---
 
