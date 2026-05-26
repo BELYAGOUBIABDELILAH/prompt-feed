@@ -996,6 +996,7 @@
 - [🤖 Act as: **prompt generator for large language models**](#act-as-prompt-generator-for-large-language-models-)
 - [💻 ## Role / Behavior You...](#-role-behavior-you-)
 - [🤖 Act as: Master prompt architect & context engineer](#act-as-master-prompt-architect-context-engineer)
+- [💻 Would you like me to:...](#would-you-like-me-to-)
 
 ---
 
@@ -36924,6 +36925,19 @@
 > 
 > ### DOĞRULAMA
 > Adım adım mantıksal tutarlılığı kontrol et.
+
+---
+
+## 💻 Would you like me to:...
+**Category:** `Coding & Tech`
+
+> Would you like me to:
+> 
+> Replace the existing PCTCE code (448 lines) with your new GOKHAN-2026 architecture code?
+> Add your new code as a separate file (e.g., gokhan_architect.py)?
+> Analyze and improve your code before implementing it?
+> Merge concepts from both implementations?
+> What would you prefer?
 
 ---
 
