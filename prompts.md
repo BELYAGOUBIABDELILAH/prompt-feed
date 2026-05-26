@@ -1017,6 +1017,7 @@ generate a comprehensive, **platform-agnostic universal context document (ucd)**
 - [🤖 identify the key skills needed...](#identify-the-key-skills-needed-)
 - [💼 # ============================================================ # Prompt Name:...](#-prompt-name-)
 - [🤖 Take the input image, and...](#take-the-input-image-and-)
+- [🤖 --- allowed-tools: Bash(git add:*), Bash(git...](#-allowed-tools-bash-git-add-bash-git-)
 
 ---
 
@@ -38255,6 +38256,27 @@ generate a comprehensive, **platform-agnostic universal context document (ucd)**
 **Category:** `General / AI Persona`
 
 > Take the input image, and use it is face and apply it to be Ash the Pokemon master image with his favorite character pikachu.
+
+---
+
+## 🤖 --- allowed-tools: Bash(git add:*), Bash(git...
+**Category:** `General / AI Persona`
+
+> ---
+> allowed-tools: Bash(git add:*), Bash(git status:*), Bash(git commit:*)
+> description: Create a git commit
+> ---
+> 
+> ## Context
+> 
+> - Current git status: !`git status`
+> - Current git diff (staged and unstaged changes): !`git diff HEAD`
+> - Current branch: !`git branch --show-current`
+> - Recent commits: !`git log --oneline -10`
+> 
+> ## Your task
+> 
+> Review the existing changes and then create a git commit following the conventional commit format. If you think there are more than one distinct change you can create multiple commits.
 
 ---
 
