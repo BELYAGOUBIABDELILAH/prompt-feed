@@ -998,6 +998,7 @@
 - [🤖 Act as: Master prompt architect & context engineer](#act-as-master-prompt-architect-context-engineer)
 - [💻 Would you like me to:...](#would-you-like-me-to-)
 - [🤖 You are a Creative Ideas...](#you-are-a-creative-ideas-)
+- [🤖 Prompt #997](#prompt-997)
 
 ---
 
@@ -36979,6 +36980,13 @@
 >    - Execution: Short-form vertical video, jump cuts synced to upbeat audio.  
 >    - Platforms: Meta Reels, Google Shorts variant.  
 >    - Tone: Energizing, modern.
+> 
+
+---
+
+## 🤖 Prompt #997
+**Category:** `General / AI Persona`
+
 > 
 
 ---
