@@ -1020,6 +1020,7 @@ generate a comprehensive, **platform-agnostic universal context document (ucd)**
 - [🤖 --- allowed-tools: Bash(git add:*), Bash(git...](#-allowed-tools-bash-git-add-bash-git-)
 - [💻 Act as: Real-time job aggregator](#act-as-real-time-job-aggregator)
 - [🤖 Create an intensive masterclass teaching...](#create-an-intensive-masterclass-teaching-)
+- [🤖 I want to create a...](#i-want-to-create-a-)
 
 ---
 
@@ -38465,6 +38466,17 @@ generate a comprehensive, **platform-agnostic universal context document (ucd)**
 > 
 >     Contextualize: Reference conversation history explicitly
 > 
+
+---
+
+## 🤖 I want to create a...
+**Category:** `General / AI Persona`
+
+> I want to create a drag-and-drop experience using UniApp, where cards can be dropped into a washing machine for cleaning. It should include drag-and-drop feedback, background bubble animations, gurgling sound effects, and a washing machine animation.
+> 1. Play the “gulp-gulp” sound.
+> 2. The card gradually fades away. 12.
+> 3. A pop-up message reads, “Clean!”.
+> 4. Bottom update: “Cleaned X items today” statistics.
 
 ---
 
