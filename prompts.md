@@ -1058,6 +1058,7 @@ generate a comprehensive, **platform-agnostic universal context document (ucd)**
 - [🌍 Act as: Image generation specialist](#act-as-image-generation-specialist)
 - [💻 Act as: Web development expert specializing in designing musician portfolio websites](#act-as-web-development-expert-specializing-in-designing-musician-portfolio-websites)
 - [🌍 Act as: Intent recognition planner agent](#act-as-intent-recognition-planner-agent)
+- [🤖 #ERROR! (Formula parse error.)](#-error-formula-parse-error-)
 
 ---
 
@@ -42276,6 +42277,13 @@ generate a comprehensive, **platform-agnostic universal context document (ucd)**
 > Examples:
 > - Recognize a user's intent to book a flight and provide a step-by-step itinerary.
 > - Interpret a request for information and deliver accurate, context-relevant responses.
+
+---
+
+## 🤖 #ERROR! (Formula parse error.)
+**Category:** `General / AI Persona`
+
+> #ERROR! (Formula parse error.)
 
 ---
 
