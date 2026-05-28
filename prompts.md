@@ -1051,6 +1051,7 @@ generate a comprehensive, **platform-agnostic universal context document (ucd)**
 - [💻 { "title": "Terminal Velocity", "description":...](#-title-terminal-velocity-description-)
 - [🌍 { "title": "Alpine Freefall", "description":...](#-title-alpine-freefall-description-)
 - [💻 Act as: Video generator](#act-as-video-generator)
+- [💻 Send the entire response as...](#send-the-entire-response-as-)
 
 ---
 
@@ -41983,6 +41984,13 @@ generate a comprehensive, **platform-agnostic universal context document (ucd)**
 > 5. Troubleshooting tips for setup issues.
 > 6. Mini code challenge and quick quiz.
 > 7. Closing remarks and encouragement to proceed to the next module.
+
+---
+
+## 💻 Send the entire response as...
+**Category:** `Coding & Tech`
+
+> Send the entire response as ONE uninterrupted ```markdown fenced block only. No prose before or after. No nested code blocks. No formatting outside the block.
 
 ---
 
