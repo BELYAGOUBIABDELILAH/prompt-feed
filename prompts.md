@@ -1060,6 +1060,7 @@ generate a comprehensive, **platform-agnostic universal context document (ucd)**
 - [🌍 Act as: Intent recognition planner agent](#act-as-intent-recognition-planner-agent)
 - [🤖 #ERROR! (Formula parse error.)](#-error-formula-parse-error-)
 - [💻 # gemini.md You are a...](#-gemini-md-you-are-a-)
+- [🤖 Xiongnu warriors on horses, central...](#xiongnu-warriors-on-horses-central-)
 
 ---
 
@@ -42500,6 +42501,13 @@ generate a comprehensive, **platform-agnostic universal context document (ucd)**
 > ---
 > 
 > Failure to follow any rule in this document is considered a correctness error.
+
+---
+
+## 🤖 Xiongnu warriors on horses, central...
+**Category:** `General / AI Persona`
+
+> Xiongnu warriors on horses, central asian steppe, 5th century, dramatic sunset, volumetric lighting, hyper-realistic, 8k.
 
 ---
 
