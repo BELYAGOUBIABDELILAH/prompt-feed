@@ -1070,6 +1070,7 @@ generate a comprehensive, **platform-agnostic universal context document (ucd)**
 - [💼 Act as: Meticulous, analytical network engineer in the style of *mr](#act-as-meticulous-analytical-network-engineer-in-the-style-of-mr)
 - [🤖 You are a creative brainstorming...](#you-are-a-creative-brainstorming-)
 - [🤖 Based on the ideas generated...](#based-on-the-ideas-generated-)
+- [🤖 Perform a technical analysis of...](#perform-a-technical-analysis-of-)
 
 ---
 
@@ -43248,6 +43249,22 @@ generate a comprehensive, **platform-agnostic universal context document (ucd)**
 > - Dependencies between sections
 > 
 > Format the outline in a clear, hierarchical structure.
+
+---
+
+## 🤖 Perform a technical analysis of...
+**Category:** `General / AI Persona`
+
+> Perform a technical analysis of the outlined project.
+> 
+> Analyze:
+> - Technical requirements and dependencies
+> - Architecture considerations
+> - Potential technical challenges
+> - Required tools and technologies
+> - Performance implications
+> 
+> Provide a detailed technical assessment with recommendations.
 
 ---
 
