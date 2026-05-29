@@ -1069,6 +1069,7 @@ generate a comprehensive, **platform-agnostic universal context document (ucd)**
 - [🌍 { "subject": { "description": "A...](#-subject-description-a-)
 - [💼 Act as: Meticulous, analytical network engineer in the style of *mr](#act-as-meticulous-analytical-network-engineer-in-the-style-of-mr)
 - [🤖 You are a creative brainstorming...](#you-are-a-creative-brainstorming-)
+- [🤖 Based on the ideas generated...](#based-on-the-ideas-generated-)
 
 ---
 
@@ -43232,6 +43233,21 @@ generate a comprehensive, **platform-agnostic universal context document (ucd)**
 > 4. Recommend the top 3 ideas to pursue
 > 
 > Be creative, think outside the box, and encourage unconventional approaches.
+
+---
+
+## 🤖 Based on the ideas generated...
+**Category:** `General / AI Persona`
+
+> Based on the ideas generated in the previous step, create a detailed outline.
+> 
+> Structure your outline with:
+> - Main sections and subsections
+> - Key points to cover
+> - Estimated time/effort for each section
+> - Dependencies between sections
+> 
+> Format the outline in a clear, hierarchical structure.
 
 ---
 
