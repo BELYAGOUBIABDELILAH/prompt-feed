@@ -1076,6 +1076,7 @@ generate a comprehensive, **platform-agnostic universal context document (ucd)**
 - [🤖 Develop the full story and...](#develop-the-full-story-and-)
 - [🤖 Perform a comprehensive final review...](#perform-a-comprehensive-final-review-)
 - [🤖 Prepare the final deliverable for...](#prepare-the-final-deliverable-for-)
+- [🤖 Ultra-realistic 6-second cinematic underwater video:...](#ultra-realistic-6-second-cinematic-underwater-video-)
 
 ---
 
@@ -43354,6 +43355,13 @@ generate a comprehensive, **platform-agnostic universal context document (ucd)**
 > - Monitor initial reception
 > 
 > Congratulations on completing the workflow!
+
+---
+
+## 🤖 Ultra-realistic 6-second cinematic underwater video:...
+**Category:** `General / AI Persona`
+
+> Ultra-realistic 6-second cinematic underwater video: A sleek predator fish darts through a vibrant coral reef, scattering a school of colorful tropical fish. The camera follows from a low FPV angle just behind the predator, weaving smoothly between corals and rocks with dynamic, fast-paced motion. The camera occasionally tilts and rolls slightly, emphasizing speed and depth, while sunlight filters through the water, creating shimmering rays and sparkling reflections. Tiny bubbles and particles float in the water for immersive realism. Ultra-realistic textures, cinematic lighting, dramatic depth of field. Audio: bubbling water, swishing fins, subtle underwater ambience.
 
 ---
 
