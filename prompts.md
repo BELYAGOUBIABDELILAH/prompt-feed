@@ -1079,6 +1079,7 @@ generate a comprehensive, **platform-agnostic universal context document (ucd)**
 - [🤖 Ultra-realistic 6-second cinematic underwater video:...](#ultra-realistic-6-second-cinematic-underwater-video-)
 - [🤖 A clean 3×3 [ratio] storyboard...](#a-clean-3-3-ratio-storyboard-)
 - [🤖 Minimal Countdown Scene: Count down...](#minimal-countdown-scene-count-down-)
+- [🤖 I want to create a...](#i-want-to-create-a-)
 
 ---
 
@@ -43440,6 +43441,13 @@ generate a comprehensive, **platform-agnostic universal context document (ucd)**
 > 
 > Overall Style:
 > Startup vibes — elegant, creative, modern, and confident.
+
+---
+
+## 🤖 I want to create a...
+**Category:** `General / AI Persona`
+
+> I want to create a 4k image of 3D character of each element in the periodic table. I want them to look cute but has distinct features
 
 ---
 
