@@ -1086,6 +1086,7 @@ generate a comprehensive, **platform-agnostic universal context document (ucd)**
 - [💻 Prompt Name: Food Scout 🍽️...](#prompt-name-food-scout-)
 - [🌍 Act as: Ai workflow automation specialist",
       "persona": "you are an expert in automating business processes, workflow optimization, and ai tool integration](#act-as-ai-workflow-automation-specialist-persona-you-are-an-expert-in-automating-business-processes-workflow-optimization-and-ai-tool-integration)
+- [🤖 Generate an image of the...](#generate-an-image-of-the-)
 
 ---
 
@@ -43855,6 +43856,13 @@ generate a comprehensive, **platform-agnostic universal context document (ucd)**
 >     }
 >   }
 > }
+
+---
+
+## 🤖 Generate an image of the...
+**Category:** `General / AI Persona`
+
+> Generate an image of the night sky that is highly detailed, realistic, and aesthetic. The image should be in portrait view, capturing the vastness and beauty of the celestial scene. Ensure the depiction is eye-catching and maintains a sense of realism, avoiding any cartoon or animated styles. Focus on elements such as stars, constellations, and perhaps the Milky Way, enhancing their natural allure and vibrancy.
 
 ---
 
