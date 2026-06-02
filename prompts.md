@@ -1094,6 +1094,7 @@ generate a comprehensive, **platform-agnostic universal context document (ucd)**
 - [🤖 Scene 1: Chaos Direction: A...](#scene-1-chaos-direction-a-)
 - [🤖 Scene 1: Chaos Direction: A...](#scene-1-chaos-direction-a-)
 - [🌍 Ultra-photorealistic studio render of a...](#ultra-photorealistic-studio-render-of-a-)
+- [🤖 Yazılacak kod aşağıdaki yeteneklerde olacak....](#yaz-lacak-kod-a-a-daki-yeteneklerde-olacak-)
 
 ---
 
@@ -44392,6 +44393,16 @@ generate a comprehensive, **platform-agnostic universal context document (ucd)**
 > Place the title “${object_name}” inside a hand-drawn technical annotation box in one corner of the image.
 > 
 > Visual style: museum exhibit / engineering infographicColor palette: white background, black annotation lines and text only (no other colors)Output: ultra-crisp, high detail, social-media optimized square compositionAspect ratio: 1:1 (1080×1080)No watermark, no logo, no UI, no decorative illustration style
+
+---
+
+## 🤖 Yazılacak kod aşağıdaki yeteneklerde olacak....
+**Category:** `General / AI Persona`
+
+> Yazılacak kod aşağıdaki yeteneklerde olacak.
+> 
+> 1. kullanıcı girişi olacak ve kullanıcı şifresi veritabanında salt ve diğer güçlü şifre korumaları ile tutulacak.
+> 2. backend ve frontend güçlü güvenlik sıkılaştırmalarına sahip olacak.
 
 ---
 
