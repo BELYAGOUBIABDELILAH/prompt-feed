@@ -1092,6 +1092,7 @@ generate a comprehensive, **platform-agnostic universal context document (ucd)**
 - [💻 TITLE: Kubernetes & Docker RPG...](#title-kubernetes-docker-rpg-)
 - [🤖 { "TASK": "Design a unique...](#-task-design-a-unique-)
 - [🤖 Scene 1: Chaos Direction: A...](#scene-1-chaos-direction-a-)
+- [🤖 Scene 1: Chaos Direction: A...](#scene-1-chaos-direction-a-)
 
 ---
 
@@ -44361,6 +44362,16 @@ generate a comprehensive, **platform-agnostic universal context document (ucd)**
 > Prompt: A cinematic 9:16 portrait of a relaxed person holding a perfectly garnished, colorful cocktail on a luxury balcony. The iconic Miami skyline and a golden hour sunset are in the background. The person looks satisfied and refreshed. Warm glowing light, bokeh background, commercial-level beverage photography, ultra-realistic, shot on 35mm lens.
 > 
 > Focus: The feeling of success at the end and the Miami sunset aesthetic.
+
+---
+
+## 🤖 Scene 1: Chaos Direction: A...
+**Category:** `General / AI Persona`
+
+> Scene 1: Chaos
+> Direction: A vertical 9:16 ultra-realistic shot of a disillusioned young person standing in a modern Miami kitchen filled with sunlight. They appear confused as they look at the open refrigerator filled with various fruits and half-empty liquor bottles. Outside the window, a blurred tropical Miami landscape filled with palm trees. Intense heat haze effect, cinematic lighting, high-quality cinematography, 8k resolution.
+> 
+> Focus: Indecision and Miami's hot atmosphere.
 
 ---
 
