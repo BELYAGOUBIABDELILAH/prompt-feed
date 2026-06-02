@@ -1095,6 +1095,7 @@ generate a comprehensive, **platform-agnostic universal context document (ucd)**
 - [🤖 Scene 1: Chaos Direction: A...](#scene-1-chaos-direction-a-)
 - [🌍 Ultra-photorealistic studio render of a...](#ultra-photorealistic-studio-render-of-a-)
 - [🤖 Yazılacak kod aşağıdaki yeteneklerde olacak....](#yaz-lacak-kod-a-a-daki-yeteneklerde-olacak-)
+- [🌍 { "name": "Cyber Security Character",...](#-name-cyber-security-character-)
 
 ---
 
@@ -44403,6 +44404,37 @@ generate a comprehensive, **platform-agnostic universal context document (ucd)**
 > 
 > 1. kullanıcı girişi olacak ve kullanıcı şifresi veritabanında salt ve diğer güçlü şifre korumaları ile tutulacak.
 > 2. backend ve frontend güçlü güvenlik sıkılaştırmalarına sahip olacak.
+
+---
+
+## 🌍 { "name": "Cyber Security Character",...
+**Category:** `Travel & Lifestyle`
+
+> {
+>   "name": "Cyber Security Character",
+>   "steps": [
+>     {
+>       "step_1": "Facial Identity Mapping",
+>       "description": "Maintain 100% facial consistency based on the provided reference photos. Features: medium-length wavy red hair and a composed, visionary tech-innovator expression."
+>     },
+>     {
+>       "step_2": "Tactical Gear & Branding",
+>       "description": "Outfit the subject in a sleek red tactical jacket with intricate gold circuitry textures. Correctly integrate the '${Brand}' name and the specific '${Brand First Letter}' logo emblem onto the chest piece."
+>     },
+>     {
+>       "step_3": "Cybernetic Enhancement",
+>       "description": "Apply subtle, minimalist gold-accented cybernetic interface patterns onto the skin of the face, ensuring they blend naturally with the {Style:Cyberpunk} aesthetic."
+>     },
+>     {
+>       "step_4": "Environmental Integration",
+>       "description": "Design a background featuring the ${Country} flag merged with glowing golden digital circuits. Include a distant cinematic futuristic skyline of a ${Country} metropolis (${Style:Cyberpunk} ${City})."
+>     },
+>     {
+>       "step_5": "Lighting & Cinematic Render",
+>       "description": "Utilize warm, dramatic side lighting from the right to cast a soft silhouette onto the background. Render in 4K ultra-realistic quality with hyper-detailed textures."
+>     }
+>   ]
+> }
 
 ---
 
