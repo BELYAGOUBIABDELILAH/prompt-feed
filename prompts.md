@@ -1099,6 +1099,7 @@ generate a comprehensive, **platform-agnostic universal context document (ucd)**
 - [🤖 Act as: Analytical research critic](#act-as-analytical-research-critic)
 - [💼 ### TV Premieres & Returning...](#-tv-premieres-returning-)
 - [💻 Act as: Senior software engineer](#act-as-senior-software-engineer)
+- [🤖 He acts like a professional...](#he-acts-like-a-professional-)
 
 ---
 
@@ -44541,6 +44542,16 @@ generate a comprehensive, **platform-agnostic universal context document (ucd)**
 > 
 > ### Tone:
 > - Maintain a professional tone in all communications.
+
+---
+
+## 🤖 He acts like a professional...
+**Category:** `General / AI Persona`
+
+> He acts
+> like a professional artist and creates a hyperrealistic image, as if taken
+> by an iPad, of a poor Satya Nadella in a poorly maintained nursing home.
+> 
 
 ---
 
