@@ -1108,6 +1108,7 @@ generate a comprehensive, **platform-agnostic universal context document (ucd)**
 - [🤖 Act as: Application designer](#act-as-application-designer)
 - [🤖 { "role": "Image Designer", "task":...](#-role-image-designer-task-)
 - [🤖 { "TASK": "Reimagine the scene...](#-task-reimagine-the-scene-)
+- [🤖 { "TASK": "Reimagine as a...](#-task-reimagine-as-a-)
 
 ---
 
@@ -44843,6 +44844,20 @@ generate a comprehensive, **platform-agnostic universal context document (ucd)**
 >   "BG": "Alien dimension or messy garage. Wobbly organic lines, weird sci-fi textures (holes, slime). Palette: Neon portal green, muted earth tones, pale skin tones.",
 >   "RENDER": "Zero gradients. Flat lighting. No shadows or minimal hard cel-shading. Clean vector look.",
 >   "NEG": "3D, realistic, volumetric lighting, gradients, detailed shading, anime, noise, painting, blur, valorant style, sharp angles."
+> }
+
+---
+
+## 🤖 { "TASK": "Reimagine as a...
+**Category:** `General / AI Persona`
+
+> {
+>   "TASK": "Reimagine as a scene from The LEGO Movie.",
+>   "VISUAL_ID": "Macro photography of plastic bricks. Stop-motion feel.",
+>   "CHARACTERS": "Lego Minifigures. C-shaped hands, cylindrical heads, painted faces.",
+>   "SURFACE": "Glossy plastic texture, fingerprints, scratches on plastic.",
+>   "BG": "Built entirely of Lego bricks. Depth of field focus.",
+>   "NEG": "Human skin, cloth texture, realistic anatomy, 2d, drawing, cartoon, anime, soft."
 > }
 
 ---
