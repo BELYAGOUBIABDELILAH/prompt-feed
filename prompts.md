@@ -1107,6 +1107,7 @@ generate a comprehensive, **platform-agnostic universal context document (ucd)**
 - [✍️ Act as: Workplace english speaking coach](#act-as-workplace-english-speaking-coach)
 - [🤖 Act as: Application designer](#act-as-application-designer)
 - [🤖 { "role": "Image Designer", "task":...](#-role-image-designer-task-)
+- [🤖 { "TASK": "Reimagine the scene...](#-task-reimagine-the-scene-)
 
 ---
 
@@ -44827,6 +44828,21 @@ generate a comprehensive, **platform-agnostic universal context document (ucd)**
 >     "dimensions": "1024x1024 pixels",
 >     "layers": "Text and icon should be on separate layers for easy editing"
 >   }
+> }
+
+---
+
+## 🤖 { "TASK": "Reimagine the scene...
+**Category:** `General / AI Persona`
+
+> {
+>   "TASK": "Reimagine the scene as a 'Rick and Morty' TV show screenshot.",
+>   "VISUAL_ID": "2D Vector Animation, Adult Swim Style (Justin Roiland). Flat colors, uniform thin black outlines.",
+>   "CHARACTERS": "Convert humans to 'Rick and Morty' anatomy. Tubular/noodle limbs, droopy stance. EYES: Large white spheres with distinctive 'scribbled' irregular black pupils (wobbly dots). EXPRESSIONS: Apathetic, panicked, or drooling.",
+>   "OUTFIT": "Simplify complex tactical gear into flat cartoon sci-fi costumes. Remove texture noise; keep only iconic shapes.",
+>   "BG": "Alien dimension or messy garage. Wobbly organic lines, weird sci-fi textures (holes, slime). Palette: Neon portal green, muted earth tones, pale skin tones.",
+>   "RENDER": "Zero gradients. Flat lighting. No shadows or minimal hard cel-shading. Clean vector look.",
+>   "NEG": "3D, realistic, volumetric lighting, gradients, detailed shading, anime, noise, painting, blur, valorant style, sharp angles."
 > }
 
 ---
