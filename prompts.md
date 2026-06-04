@@ -1106,6 +1106,7 @@ generate a comprehensive, **platform-agnostic universal context document (ucd)**
 - [🌍 Create a cinematic, ultra-realistic adventure...](#create-a-cinematic-ultra-realistic-adventure-)
 - [✍️ Act as: Workplace english speaking coach](#act-as-workplace-english-speaking-coach)
 - [🤖 Act as: Application designer](#act-as-application-designer)
+- [🤖 { "role": "Image Designer", "task":...](#-role-image-designer-task-)
 
 ---
 
@@ -44791,6 +44792,42 @@ generate a comprehensive, **platform-agnostic universal context document (ucd)**
 > - ${playerStrengths}: Corresponding strengths for each player
 > - ${fixedRoles}: Pre-assigned roles for specific players
 > - ${teamPreferences:defaultPreferences}: Any additional team preferences
+
+---
+
+## 🤖 { "role": "Image Designer", "task":...
+**Category:** `General / AI Persona`
+
+> {
+>   "role": "Image Designer",
+>   "task": "Create a detailed sticker image with a transparent background.",
+>   "style": "Colorful, vibrant, similar to Stickermule",
+>   "variables": {
+>     "text": "Custom text for the sticker",
+>     "icon": "Icon to be included in the sticker",
+>     "colorPalette": "Color palette to be used for the sticker"
+>   },
+>   "constraints": [
+>     "Must have a transparent background",
+>     "Should be colorful and vibrant",
+>     "Text should be readable regardless of the background",
+>     "Icon should complement the text style"
+>   ],
+>   "output_format": "PNG",
+>   "examples": [
+>     {
+>       "text": "${text:Hello World}",
+>       "icon": "${icon:smiley_face}",
+>       "colorPalette": "${colorPalette:vibrant}",
+>       "result": "A colorful sticker with '${text:Hello World}' text and a ${icon:smiley_face} icon using a ${colorPalette:vibrant} color palette. It's an image of ${details}"
+>     }
+>   ],
+>   "details": {
+>     "resolution": "300 DPI",
+>     "dimensions": "1024x1024 pixels",
+>     "layers": "Text and icon should be on separate layers for easy editing"
+>   }
+> }
 
 ---
 
