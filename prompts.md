@@ -1112,6 +1112,7 @@ generate a comprehensive, **platform-agnostic universal context document (ucd)**
 - [🤖 Act as: Metals price analyst](#act-as-metals-price-analyst)
 - [💻 # COMPREHENSIVE TYPESCRIPT CODEBASE REVIEW...](#-comprehensive-typescript-codebase-review-)
 - [💻 # COMPREHENSIVE PHP CODEBASE REVIEW...](#-comprehensive-php-codebase-review-)
+- [🤖 Make a miniature, full-body, isometric,...](#make-a-miniature-full-body-isometric-)
 
 ---
 
@@ -46286,6 +46287,13 @@ generate a comprehensive, **platform-agnostic universal context document (ucd)**
 >    - Dependency health score (1-10)
 >    - PHP version compatibility status
 > 
+
+---
+
+## 🤖 Make a miniature, full-body, isometric,...
+**Category:** `General / AI Persona`
+
+> Make a miniature, full-body, isometric, realistic figurine of this person, wearing ABC, doing XYZ, on a white background, minimal, 4K resolution.
 
 ---
 
