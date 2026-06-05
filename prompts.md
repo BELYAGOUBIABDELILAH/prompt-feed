@@ -1119,6 +1119,7 @@ generate a comprehensive, **platform-agnostic universal context document (ucd)**
 - [🤖 They are standing under the...](#they-are-standing-under-the-)
 - [🤖 "Do you ever wonder why...](#-do-you-ever-wonder-why-)
 - [🤖 Generate an enhanced version of...](#generate-an-enhanced-version-of-)
+- [💻 Improve the following code ```...](#improve-the-following-code-)
 
 ---
 
@@ -48949,6 +48950,25 @@ generate a comprehensive, **platform-agnostic universal context document (ucd)**
 > Generate an enhanced version of this prompt (reply with only the enhanced prompt - no conversation, explanations, lead-in, bullet points, placeholders, or surrounding quotes):
 > 
 > ${userInput}
+
+---
+
+## 💻 Improve the following code ```...
+**Category:** `Coding & Tech`
+
+> Improve the following code
+> 
+> ```
+> ${selectedText}
+> ```
+> 
+> Please suggest improvements for:
+> 1. Code readability and maintainability
+> 2. Performance optimization
+> 3. Best practices and patterns
+> 4. Error handling and edge cases
+> 
+> Provide the improved code along with explanations for each enhancement.
 
 ---
 
