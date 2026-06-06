@@ -1126,6 +1126,7 @@ generate a comprehensive, **platform-agnostic universal context document (ucd)**
 - [🌍 Act as: Ai app prototyping model](#act-as-ai-app-prototyping-model)
 - [🤖 Act as: Personal growth strategist specializing in the bnwo lifestyle](#act-as-personal-growth-strategist-specializing-in-the-bnwo-lifestyle)
 - [✍️ Act as: Senior digital research analyst and content strategist with extensive expertise in sociocultural online communities](#act-as-senior-digital-research-analyst-and-content-strategist-with-extensive-expertise-in-sociocultural-online-communities)
+- [🤖 I want a scaryface masked...](#i-want-a-scaryface-masked-)
 
 ---
 
@@ -49091,6 +49092,13 @@ generate a comprehensive, **platform-agnostic universal context document (ucd)**
 > - **Accuracy:** Ensure all URLs and site names are verified and current; refrain from including unmoderated or spam sites.
 > - **Formatting:** Use Markdown syntax extensively—headings, subheadings, bullet points, and tables—to optimize clarity and navigability.
 > - **Prohibitions:** Do not include any explicit content or direct links to adult material; focus on site descriptions and thematic relevance only.
+
+---
+
+## 🤖 I want a scaryface masked...
+**Category:** `General / AI Persona`
+
+> I want a scaryface masked man with really realistic lilke chasing me etc as cosplay
 
 ---
 
