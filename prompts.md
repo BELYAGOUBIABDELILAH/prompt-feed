@@ -1122,6 +1122,7 @@ generate a comprehensive, **platform-agnostic universal context document (ucd)**
 - [💻 Improve the following code ```...](#improve-the-following-code-)
 - [🤖 Act as: Product designer and software architect](#act-as-product-designer-and-software-architect)
 - [🌍 Act as: Financial researcher](#act-as-financial-researcher)
+- [🤖 Imagine a setting in a...](#imagine-a-setting-in-a-)
 
 ---
 
@@ -49007,6 +49008,13 @@ generate a comprehensive, **platform-agnostic universal context document (ucd)**
 > - Focus on the latest and most relevant information available
 > - Ensure comparisons are clear and unbiased
 > - Tailor recommendations to diverse user profiles, such as frequent travelers or those with significant remittances
+
+---
+
+## 🤖 Imagine a setting in a...
+**Category:** `General / AI Persona`
+
+> Imagine a setting in a cozy home environment. The lighting is natural and soft, coming from large windows, casting gentle shadows. Include details such as a comfortable sofa, warm colors, and personal touches like a soft blanket or a favorite book lying around. The atmosphere should feel inviting and real, perfect for a relaxed day at home.
 
 ---
 
