@@ -1134,6 +1134,7 @@ generate a comprehensive, **platform-agnostic universal context document (ucd)**
 - [🌍 explain the thinking fast and...](#explain-the-thinking-fast-and-)
 - [🤖 Reconstruct the central object of...](#reconstruct-the-central-object-of-)
 - [🤖 Can you help me craft...](#can-you-help-me-craft-)
+- [🤖 I need assistance crafting a...](#i-need-assistance-crafting-a-)
 
 ---
 
@@ -49966,6 +49967,13 @@ generate a comprehensive, **platform-agnostic universal context document (ucd)**
 **Category:** `General / AI Persona`
 
 > Can you help me craft a catchy headline for my LinkedIn profile that would help me get noticed by recruiters looking to fill a ${job_title:data engineer} in ${industry:data engineering}? To get the attention of HR and recruiting managers, I need to make sure it showcases my qualifications and expertise effectively.
+
+---
+
+## 🤖 I need assistance crafting a...
+**Category:** `General / AI Persona`
+
+> I need assistance crafting a convincing summary for my LinkedIn profile that would help me land a ${job_title} in ${industry}. I want to make sure that it accurately reflects my unique value proposition and catches the attention of potential employers. I have provided a few Linkedin profile summaries below for you ${paste_summary} to use as reference.
 
 ---
 
