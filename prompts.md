@@ -1133,6 +1133,7 @@ generate a comprehensive, **platform-agnostic universal context document (ucd)**
 - [🌍 A premium iOS app icon...](#a-premium-ios-app-icon-)
 - [🌍 explain the thinking fast and...](#explain-the-thinking-fast-and-)
 - [🤖 Reconstruct the central object of...](#reconstruct-the-central-object-of-)
+- [🤖 Can you help me craft...](#can-you-help-me-craft-)
 
 ---
 
@@ -49958,6 +49959,13 @@ generate a comprehensive, **platform-agnostic universal context document (ucd)**
 > Negatives:
 > 
 > 2D flat design, flat icon, illustration, lighting-only depth, fake 3D, gradients on object, shading, shadows, cartoon style, sketch, photorealism, textures, noise, grain
+
+---
+
+## 🤖 Can you help me craft...
+**Category:** `General / AI Persona`
+
+> Can you help me craft a catchy headline for my LinkedIn profile that would help me get noticed by recruiters looking to fill a ${job_title:data engineer} in ${industry:data engineering}? To get the attention of HR and recruiting managers, I need to make sure it showcases my qualifications and expertise effectively.
 
 ---
 
