@@ -1135,6 +1135,7 @@ generate a comprehensive, **platform-agnostic universal context document (ucd)**
 - [🤖 Reconstruct the central object of...](#reconstruct-the-central-object-of-)
 - [🤖 Can you help me craft...](#can-you-help-me-craft-)
 - [🤖 I need assistance crafting a...](#i-need-assistance-crafting-a-)
+- [🤖 Suggest me to optimize my...](#suggest-me-to-optimize-my-)
 
 ---
 
@@ -49974,6 +49975,13 @@ generate a comprehensive, **platform-agnostic universal context document (ucd)**
 **Category:** `General / AI Persona`
 
 > I need assistance crafting a convincing summary for my LinkedIn profile that would help me land a ${job_title} in ${industry}. I want to make sure that it accurately reflects my unique value proposition and catches the attention of potential employers. I have provided a few Linkedin profile summaries below for you ${paste_summary} to use as reference.
+
+---
+
+## 🤖 Suggest me to optimize my...
+**Category:** `General / AI Persona`
+
+> Suggest me to optimize my LinkedIn profile experience section to highlight most of the relevant achievements for a ${job_title} position in ${industry}. Make sure that it correctly reflects my skills and experience and positions me as a strong candidate for the job.
 
 ---
 
