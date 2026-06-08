@@ -1136,6 +1136,7 @@ generate a comprehensive, **platform-agnostic universal context document (ucd)**
 - [🤖 Can you help me craft...](#can-you-help-me-craft-)
 - [🤖 I need assistance crafting a...](#i-need-assistance-crafting-a-)
 - [🤖 Suggest me to optimize my...](#suggest-me-to-optimize-my-)
+- [✍️ Help me write a message...](#help-me-write-a-message-)
 
 ---
 
@@ -49982,6 +49983,13 @@ generate a comprehensive, **platform-agnostic universal context document (ucd)**
 **Category:** `General / AI Persona`
 
 > Suggest me to optimize my LinkedIn profile experience section to highlight most of the relevant achievements for a ${job_title} position in ${industry}. Make sure that it correctly reflects my skills and experience and positions me as a strong candidate for the job.
+
+---
+
+## ✍️ Help me write a message...
+**Category:** `Writing & Language`
+
+> Help me write a message asking my former supervisor and mentor to recommend me for the role of ${job_title} in the ${sector} in which we both worked. Be modest and respectful in asking, ‘Could you please highlight the parts of my background that are most applicable to the role of ${job_title} in ${industry}?
 
 ---
 
