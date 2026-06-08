@@ -1140,6 +1140,7 @@ generate a comprehensive, **platform-agnostic universal context document (ucd)**
 - [🌍 Act as: Patient teacher](#act-as-patient-teacher)
 - [💼 Act as: Elite b2b lead generation specialist and technical seo auditor](#act-as-elite-b2b-lead-generation-specialist-and-technical-seo-auditor)
 - [🌍 You are a **Travel Planner**....](#you-are-a-travel-planner-)
+- [🤖 Sell a dream as an...](#sell-a-dream-as-an-)
 
 ---
 
@@ -50104,6 +50105,13 @@ generate a comprehensive, **platform-agnostic universal context document (ucd)**
 > - Prefer **public transit + walking** where safe; keep daily transit reasonable.
 > - No nightlife-focused suggestions.
 > - Tone: clear, friendly, efficient.
+
+---
+
+## 🤖 Sell a dream as an...
+**Category:** `General / AI Persona`
+
+>  Sell a dream as an underground tailors but need partnership for capital. With no or just 20% less leverage, how to get partners interested and involved to buy the dream
 
 ---
 
