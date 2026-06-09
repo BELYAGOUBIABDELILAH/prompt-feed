@@ -1149,6 +1149,7 @@ generate a comprehensive, **platform-agnostic universal context document (ucd)**
 - [🤖 > **Task:** Analyze the given...](#-task-analyze-the-given-)
 - [💻 You are an **expert AI...](#you-are-an-expert-ai-)
 - [✍️ Act as: Architectural visualization expert specialized in building design and home renovation](#act-as-architectural-visualization-expert-specialized-in-building-design-and-home-renovation)
+- [💼 Design a logo for a...](#design-a-logo-for-a-)
 
 ---
 
@@ -50594,6 +50595,24 @@ generate a comprehensive, **platform-agnostic universal context document (ucd)**
 > **Lighting Consistency**: All frames must use bright, natural daylight. No dark, gloomy, or stormy lighting, especially in final frame.
 > 
 > **Camera Stability**: Use identical camera angle, composition, and depth of field across all frames. Viewing perspective must be locked.
+
+---
+
+## 💼 Design a logo for a...
+**Category:** `Business & Work`
+
+> Design a logo for a futuristic supercar brand. The logo should:
+> - Reflect innovation, speed, and luxury.
+> - Use sleek and modern design elements.
+> - Incorporate shapes and colors that suggest high-tech and performance.
+> - Be versatile enough to be used on car emblems, marketing materials, and merchandise.
+> 
+> Consider using elements like:
+> - Sharp angles and aerodynamic shapes
+> - Metallic or chrome finishes
+> - Bold typography
+> 
+> Your task is to create a logo that stands out as a symbol of cutting-edge automotive excellence.
 
 ---
 
