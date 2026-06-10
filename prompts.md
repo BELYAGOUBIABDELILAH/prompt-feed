@@ -1153,6 +1153,7 @@ generate a comprehensive, **platform-agnostic universal context document (ucd)**
 - [✍️ Act as: Senior research associate in academia, assisting your phd student in preparing a scientific paper for publication](#act-as-senior-research-associate-in-academia-assisting-your-phd-student-in-preparing-a-scientific-paper-for-publication)
 - [🤖 Act as: Business legal assistant](#act-as-business-legal-assistant)
 - [🤖 Act as: China business law assistant](#act-as-china-business-law-assistant)
+- [🤖 Create a prompt to create...](#create-a-prompt-to-create-)
 
 ---
 
@@ -50706,6 +50707,13 @@ generate a comprehensive, **platform-agnostic universal context document (ucd)**
 > - ${businessType} - Type of business inquiring about legal matters
 > - ${legalIssue} - Specific legal issue or question
 > - ${region:China} - Region within China, if applicable
+
+---
+
+## 🤖 Create a prompt to create...
+**Category:** `General / AI Persona`
+
+> Create a prompt to create family picture in a studio with customized arrangement of the family members
 
 ---
 
