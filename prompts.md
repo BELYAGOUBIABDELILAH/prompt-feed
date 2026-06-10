@@ -1155,6 +1155,7 @@ generate a comprehensive, **platform-agnostic universal context document (ucd)**
 - [🤖 Act as: China business law assistant](#act-as-china-business-law-assistant)
 - [🤖 Create a prompt to create...](#create-a-prompt-to-create-)
 - [💻 Act as: Mobile app developer](#act-as-mobile-app-developer)
+- [✍️ A serious man in a...](#a-serious-man-in-a-)
 
 ---
 
@@ -50738,6 +50739,13 @@ generate a comprehensive, **platform-agnostic universal context document (ucd)**
 > - ${appName:Streaks} - Name of the app
 > - ${platform:iOS/Android} - Target platform(s)
 > - ${featureList} - List of features to include
+
+---
+
+## ✍️ A serious man in a...
+**Category:** `Writing & Language`
+
+> A serious man in a denim jacket standing in a dark urban setting with flashing emergency lights behind him, cinematic lighting, dramatic atmosphere, Persian-English bilingual film poster style
 
 ---
 
